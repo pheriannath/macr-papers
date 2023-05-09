@@ -1,0 +1,39 @@
+/* Fonts */
+@import "typography.css";
+
+/* Vars */
+:root {
+  --body-copy: "Lora", serif;
+  --condensed-copy: "Barlow Semi Condensed", sans-serif;
+}
+
+/* Base */
+body {
+  font-family: var(--body-copy);
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.active {
+  text-decoration: underline;
+}
+
+.pink {
+  fill: pink;
+}
+
+/* Components/etc */
+@import "article.css";
+@import "layout.css";
+@import "article.css";
