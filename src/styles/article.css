@@ -1,4 +1,65 @@
+/* once we're happy, use clamp() on the paddings */
+
+article {
+  background: white;
+  padding: 1.5rem 8rem;
+}
+
+article h2,
+article h4 {
+  text-align: center;
+}
+
+article h2 {
+  font-size: 2rem;
+}
+
+article blockquote {
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.tags,
+.pub-author {
+  font-family: var(--sans-serif);
+  text-transform: uppercase;
+}
+
+.pub-author {
+  font-size: 0.8rem;
+}
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  justify-content: center;
+  font-size: 0.8rem;
+}
+
 .main-citation {
+  display: block;
+  padding: 0.4rem 0;
   font-family: var(--condensed-copy);
   font-style: normal;
+  font-size: 0.75rem;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.download-row {
+  display: flex;
+  margin: 1rem 0;
+}
+
+.download-link {
+  display: flex;
+  margin-left: auto;
+  width: 50px;
+}
+
+.download-link img {
+  display: block;
+  max-width: 100%;
 }

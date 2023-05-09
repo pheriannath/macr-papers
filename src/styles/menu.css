@@ -1,0 +1,16 @@
+.main-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.main-menu__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100px;
+  padding: 0.5rem;
+  border: 4px solid white;
+}

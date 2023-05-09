@@ -1,0 +1,10 @@
+.grid {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+}
+
+.pubgrid {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+}

@@ -4,6 +4,7 @@ const publication = {
   authorFull: "Miriam Devlin",
   name: "Craft Practiced, a reader",
   articles: [],
+  accent: "#cf2228",
 };
 
 export default publication;

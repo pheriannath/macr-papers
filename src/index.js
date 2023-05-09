@@ -6,6 +6,7 @@ import Article from "./components/Article";
 import Publication from "./components/Publication";
 import Bio from "./components/Bio";
 import Error from "./components/Error";
+import Background from "./assets/background.jpeg";
 import "./styles/index.css";
 
 const router = createBrowserRouter([
@@ -29,7 +30,13 @@ const router = createBrowserRouter([
   },
 ]);
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
+const rootEl = document.getElementById("root");
+rootEl.style.backgroundImage = `url(${Background})`;
+rootEl.style.backgroundRepeat = "no-repeat";
+rootEl.style.backgroundSize = "cover";
+
+const root = ReactDOM.createRoot(rootEl);
+
 root.render(
   <React.StrictMode>
     <RouterProvider router={router} />

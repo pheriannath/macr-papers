@@ -4,6 +4,7 @@ const publication = {
   authorFull: "Beryl Perron-Feller",
   name: "Finding Common Ground Through Craft",
   articles: [],
+  accent: "#f36321",
 };
 
 export default publication;

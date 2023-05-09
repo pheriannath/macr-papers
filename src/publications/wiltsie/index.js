@@ -4,6 +4,7 @@ const publication = {
   authorFull: "Tina Wiltsie",
   name: "Pots on Pots",
   articles: [],
+  accent: "#41ae4a",
 };
 
 export default publication;

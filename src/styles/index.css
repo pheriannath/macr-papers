@@ -5,10 +5,13 @@
 :root {
   --body-copy: "Lora", serif;
   --condensed-copy: "Barlow Semi Condensed", sans-serif;
+  --sans-serif: "Rubik", sans-serif;
 }
 
 /* Base */
 body {
+  margin: 0;
+  padding: 0;
   font-family: var(--body-copy);
 }
 
@@ -29,11 +32,8 @@ a.active {
   text-decoration: underline;
 }
 
-.pink {
-  fill: pink;
-}
-
 /* Components/etc */
 @import "article.css";
 @import "layout.css";
 @import "article.css";
+@import "menu.css";

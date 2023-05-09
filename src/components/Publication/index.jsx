@@ -9,17 +9,19 @@ const Publication = () => {
   const articles = publication?.articles;
 
   return (
-    <div>
-      <h2>{publication.name}</h2>
-      <ul>
-        {articles?.map((a, i) => {
-          return (
-            <li key={i}>
-              <NavLink to={`${a.id}`}>{a.name}</NavLink>
-            </li>
-          );
-        })}
-      </ul>
+    <div className="pubgrid">
+      <div>
+        <h2>{publication.name}</h2>
+        <ul>
+          {articles?.map((a, i) => {
+            return (
+              <li key={i}>
+                <NavLink to={`${a.id}`}>{a.name}</NavLink>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
       <Outlet />
     </div>
   );

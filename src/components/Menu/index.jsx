@@ -4,10 +4,10 @@ import { PUBLICATIONS } from "../../publications";
 
 const Menu = () => {
   return (
-    <ul>
+    <ul className="main-menu">
       {PUBLICATIONS.map((pub, i) => {
         return (
-          <li key={i}>
+          <li className="main-menu__item" key={i}>
             <NavLink to={`publication/${pub.id}`}>{pub.author}</NavLink>
           </li>
         );

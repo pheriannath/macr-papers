@@ -10,7 +10,7 @@ const Article = () => {
 
   return (
     <article>
-      <h4>{publication.authorFull}</h4>
+      <h4 className="pub-author">{publication.authorFull}</h4>
       {WhichArticle.component}
     </article>
   );

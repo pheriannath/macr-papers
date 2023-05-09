@@ -5,6 +5,18 @@ const MakingRoom = () => {
   return (
     <div>
       <h2>Making Room, Making Connections, Making History: Editors' Note</h2>
+      <ul className="tags">
+        <li>Introduction</li>
+        <li>New Writing (Student)</li>
+        <li>craft studies</li>
+        <li>black craftspeople</li>
+        <li>archive</li>
+        <li>erasure</li>
+        <li>methodologies</li>
+        <li>craft practice</li>
+        <li>labor</li>
+        <li>black history</li>
+      </ul>
       <div>
         <cite className="main-citation">
           DiMassimo, Jill and Joanna Weiss, "Making Room, Making Connections,
@@ -17,7 +29,9 @@ const MakingRoom = () => {
           </a>
         </cite>
       </div>
-      <Download />
+      <div className="download-row">
+        <Download />
+      </div>
       <blockquote>
         <strong>Black Workers</strong> <br />
         The bees work

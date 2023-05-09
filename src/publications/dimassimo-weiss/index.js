@@ -12,6 +12,7 @@ const publication = {
       component: <MakingRoom />,
     },
   ],
+  accent: "#ec008c",
 };
 
 export default publication;
