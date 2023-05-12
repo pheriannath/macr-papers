@@ -31,9 +31,11 @@ const router = createBrowserRouter([
 ]);
 
 const rootEl = document.getElementById("root");
-rootEl.style.backgroundImage = `url(${Background})`;
-rootEl.style.backgroundRepeat = "no-repeat";
-rootEl.style.backgroundSize = "cover";
+const body = document.body;
+body.style.backgroundImage = `url(${Background})`;
+body.style.backgroundRepeat = "no-repeat";
+body.style.backgroundSize = "cover";
+body.style.backgroundAttachment = "fixed";
 
 const root = ReactDOM.createRoot(rootEl);
 
