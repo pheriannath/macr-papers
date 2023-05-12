@@ -8,7 +8,7 @@ const Menu = () => {
       {PUBLICATIONS.map((pub, i) => {
         return (
           <li className="main-menu__item" key={i}>
-            <NavLink to={`publication/${pub.id}`}>{pub.author}</NavLink>
+            <NavLink to={`${pub.id}`}>{pub.author}</NavLink>
           </li>
         );
       })}

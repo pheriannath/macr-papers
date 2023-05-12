@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Outlet, useParams } from "react-router";
 import { NavLink } from "react-router-dom";
 import { PUBLICATIONS } from "../../publications";
@@ -8,6 +8,11 @@ const Publication = () => {
   const publication = PUBLICATIONS?.find((pub) => pub.id === pubId);
   const articles = publication?.articles;
 
+  useEffect(() => {
+    const root = document.documentElement;
+    root.style.setProperty("--highlight", publication.accent);
+  }, [publication]);
+
   return (
     <div className="pubgrid">
       <div>
@@ -16,7 +21,7 @@ const Publication = () => {
           {articles?.map((a, i) => {
             return (
               <li key={i}>
-                <NavLink to={`${a.id}`}>{a.name}</NavLink>
+                <NavLink to={`${a.id}`}>{a.title}</NavLink>
               </li>
             );
           })}

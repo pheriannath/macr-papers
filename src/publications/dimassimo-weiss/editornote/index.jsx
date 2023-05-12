@@ -1,37 +1,8 @@
 import React from "react";
-import Download from "../../../components/Download";
 
-const MakingRoom = () => {
+const EditorNote = () => {
   return (
     <div>
-      <h2>Making Room, Making Connections, Making History: Editors' Note</h2>
-      <ul className="tags">
-        <li>Introduction</li>
-        <li>New Writing (Student)</li>
-        <li>craft studies</li>
-        <li>black craftspeople</li>
-        <li>archive</li>
-        <li>erasure</li>
-        <li>methodologies</li>
-        <li>craft practice</li>
-        <li>labor</li>
-        <li>black history</li>
-      </ul>
-      <div>
-        <cite className="main-citation">
-          DiMassimo, Jill and Joanna Weiss, "Making Room, Making Connections,
-          Making History: Editors' Note," in Reclaiming the Center: Making Way
-          for Black Craft, edited by Jill DiMassimo and Joanna Weiss. The MACR
-          Papers, Swannanoa, NC: the MA in Critical Craft Studies, 2023.
-          Copyright remains with the author. ISBN 978-1-7351592-3-2&nbsp;|&nbsp;
-          <a href="http://www.macraftstudieswwc.com/theMACRPapers/dimassimo_weiss/editornote">
-            www.macraftstudieswwc.com/theMACRPapers/dimassimo_weiss/editornote
-          </a>
-        </cite>
-      </div>
-      <div className="download-row">
-        <Download />
-      </div>
       <blockquote>
         <strong>Black Workers</strong> <br />
         The bees work
@@ -106,11 +77,11 @@ const MakingRoom = () => {
       </p>
       <hr />
       <cite>
-        <sup id="citation-1">1</sup> Title influenced by Feminist Theory: From
+        <sup id="citation-1">1.</sup> Title influenced by Feminist Theory: From
         Margin to Center, by bell hooks.
       </cite>
     </div>
   );
 };
 
-export default MakingRoom;
+export default EditorNote;

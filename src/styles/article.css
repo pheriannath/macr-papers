@@ -5,13 +5,19 @@ article {
   padding: 1.5rem 8rem;
 }
 
-article h2,
-article h4 {
+article .title,
+article .author {
   text-align: center;
+  color: var(--highlight);
 }
 
-article h2 {
+article .title {
   font-size: 2rem;
+}
+
+article hr {
+  border: 0;
+  border-top: 2px solid var(--highlight);
 }
 
 article blockquote {
@@ -20,12 +26,12 @@ article blockquote {
 }
 
 .tags,
-.pub-author {
+.author {
   font-family: var(--sans-serif);
   text-transform: uppercase;
 }
 
-.pub-author {
+.author {
   font-size: 0.8rem;
 }
 
@@ -44,8 +50,13 @@ article blockquote {
   font-family: var(--condensed-copy);
   font-style: normal;
   font-size: 0.75rem;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
+  border-top: 2px solid var(--highlight);
+  border-bottom: 2px solid var(--highlight);
+}
+
+article a,
+article sup {
+  color: var(--highlight);
 }
 
 .download-row {
@@ -62,4 +73,8 @@ article blockquote {
 .download-link img {
   display: block;
   max-width: 100%;
+}
+
+sup a {
+  padding: 0 0.25rem;
 }
