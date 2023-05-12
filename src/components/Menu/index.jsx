@@ -7,7 +7,11 @@ const Menu = () => {
     <ul className="main-menu">
       {PUBLICATIONS.map((pub, i) => {
         return (
-          <li className="main-menu__item" key={i}>
+          <li
+            className="main-menu__item"
+            key={i}
+            style={{ backgroundColor: pub.accent }}
+          >
             <NavLink to={`${pub.id}`}>{pub.author}</NavLink>
           </li>
         );

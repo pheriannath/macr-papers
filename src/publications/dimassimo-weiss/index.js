@@ -8,6 +8,7 @@ const publication = {
   articles: [
     {
       id: "editornote",
+      order: "1",
       title: "Making Room, Making Connections, Making History: Editor's Note",
       author: "Jill DiMassimo & Joanna Weiss",
       tags: [

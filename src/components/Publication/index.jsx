@@ -21,7 +21,9 @@ const Publication = () => {
           {articles?.map((a, i) => {
             return (
               <li key={i}>
-                <NavLink to={`${a.id}`}>{a.title}</NavLink>
+                <NavLink to={`${a.id}`}>
+                  {a.order} {a.title}
+                </NavLink>
               </li>
             );
           })}
