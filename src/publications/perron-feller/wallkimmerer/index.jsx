@@ -1,5 +1,3 @@
-import Spread from "./assets/spread.jpg";
-
 const WallKimmerer = () => {
   return (
     <div>
@@ -31,7 +29,7 @@ const WallKimmerer = () => {
       </p>
 
       <figure>
-        <img src={Spread} />
+        <img src={process.env.PUBLIC_URL + "/img/wallkimmerer/spread.jpg"} />
         <figcaption>
           Wall Kimmerer, Robin. “Asters and Goldenrod.” In Braiding Sweetgrass,
           39-47. Minneapolis: Milkweed Editions, 2013.
