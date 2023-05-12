@@ -10,13 +10,13 @@ const Publication = () => {
 
   useEffect(() => {
     const root = document.documentElement;
-    root.style.setProperty("--highlight", publication.accent);
+    root.style.setProperty("--highlight", publication?.accent);
   }, [publication]);
 
   return (
     <div className="pubgrid">
       <div>
-        <h2>{publication.name}</h2>
+        <h2>{publication?.name}</h2>
         <ul>
           {articles?.map((a, i) => {
             return (
