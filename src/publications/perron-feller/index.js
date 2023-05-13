@@ -2,6 +2,7 @@ import Foreword from "./foreword";
 import WallKimmerer from "./wallkimmerer";
 import DenHerder from "./denherder";
 import Buckert from "./buckert";
+import Johnson from "./johnson";
 
 const publication = {
   id: "perron-feller",
@@ -80,6 +81,26 @@ const publication = {
       citation: `Perron-Feller, Beryl. “Constructing an Interdisciplinary Life: An Oral History with Morgan Buckert,” in Finding Common Ground Through Craft, edited by Beryl Peron-Feller. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-3-2 `,
       url: "https://www.theMACRPapers.com/perron-feller/buckert",
       component: <Buckert />,
+    },
+    {
+      id: "johnson",
+      order: 5,
+      title: `Surgent Love `,
+      author: "Emily Johnson",
+      tags: [
+        "reprint",
+        "essay",
+        "community",
+        "dance",
+        "heritage",
+        "indigenous knowledge",
+        "land",
+        "performance",
+        "resistance",
+      ],
+      citation: `Perron-Feller, Beryl. “Introduction: Emily Johnson,” in Finding Common Ground Through Craft, edited by Beryl Peron-Feller. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-3-2 `,
+      url: "https://www.theMACRPapers.com/perron-feller/johnson",
+      component: <Johnson />,
     },
   ],
   accent: "#f36321",
