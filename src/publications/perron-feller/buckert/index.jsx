@@ -269,7 +269,6 @@ const Buckert = () => {
         of making custom footwear. And that's people who make shoes. Cowboy boot
         makers do almost all of it by hand.
       </p>
-      …
       <p className="question">
         <span className="speaker">BPF:</span> What is a place or experience
         you've had since aging out of summer camp that has felt camp-like?
