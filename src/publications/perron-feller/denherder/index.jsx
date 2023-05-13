@@ -602,6 +602,7 @@ const DenHerder = () => {
         drawing and establishing new connections, and cultivating the patience
         to allow for those new connections between ideas and people to form.
       </p>
+      <hr />
     </div>
   );
 };
