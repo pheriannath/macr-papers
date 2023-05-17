@@ -2,6 +2,9 @@ import Foreword from "./foreword";
 import Acknowledgements from "./acknowledgements";
 import Epigraph from "./epigraph";
 import Ancestry from "./ancestry";
+import Aufhebung from "./aufhebung";
+import Coalesce from "./coalesce";
+import Ecology from "./ecology";
 
 const publication = {
   id: "tom",
@@ -77,34 +80,51 @@ const publication = {
       component: "",
     },
     {
-      id: "foreword",
+      id: "aufhebung",
       order: 6,
-      title: "",
-      author: "",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      title: "Aufhebung",
+      author: "Lucia Ilene Wallace",
+      authorShort: "Wallace",
+      tags: [
+        "reprint",
+        "excerpt",
+        "absence",
+        "ceramic",
+        "destruction",
+        "objectlessness",
+        "renewal",
+      ],
+      citation: `Wallace, Lucia Ilene. “Aufhebung,” in Encyclopedia of Craft Studies (Abridged) edited by Rena Tom. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-8-7 `,
+      url: "https://www.theMACRPapers/tom/aufhebung ",
+      component: <Aufhebung />,
     },
     {
-      id: "foreword",
+      id: "coalesce",
       order: 7,
-      title: "",
-      author: "",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      title: "Coalesce",
+      author: "Rena Tom",
+      authorShort: "Tom",
+      tags: [
+        "new writing (student)",
+        "visual essay",
+        "community",
+        "future",
+        "support networks",
+      ],
+      citation: `Tom, Rena. “Coalesce,” in Encyclopedia of Craft Studies (Abridged) edited by Rena Tom. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-8-7 `,
+      url: "https://www.theMACRPapers/tom/coalesce",
+      component: <Coalesce />,
     },
     {
-      id: "foreword",
+      id: "ecology",
       order: 8,
-      title: "",
-      author: "",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      title: "Ecology",
+      author: "Anna Lowenhaupt Tsing",
+      authorShort: "Tsing",
+      tags: ["reprint, excerpt, death, destruction, ecology, future"],
+      citation: `Tsing, Anna Lowenhaupt. “Ecology,” in Encyclopedia of Craft Studies (Abridged) edited by Rena Tom. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-8-7 `,
+      url: "https://www.theMACRPapers/tom/ecology",
+      component: <Ecology />,
     },
     {
       id: "foreword",
