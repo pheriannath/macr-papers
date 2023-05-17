@@ -20,13 +20,11 @@
   align-items: center;
   gap: 1.5rem;
   color: var(--highlight);
-  opacity: 0.5;
 }
 
 .publication-menu__item a.active,
 .publication-menu__item a:hover {
   text-decoration: none;
-  opacity: 1;
 }
 
 .publication-order {
@@ -38,7 +36,6 @@
   height: 24px;
   border: 2px solid transparent;
   transform: rotate(45deg);
-  opacity: 1;
 }
 
 .publication-menu__item a.active .publication-order {
@@ -57,4 +54,17 @@
 .publication-article-title {
   font-family: var(--condensed-copy);
   text-transform: none;
+}
+
+/* Hover & active states */
+.publication-menu__item a .publication-article-author,
+.publication-menu__item a .publication-article-title {
+  opacity: 0.5;
+}
+
+.publication-menu__item a.active .publication-article-author,
+.publication-menu__item a:hover .publication-article-author,
+.publication-menu__item a.active .publication-article-title,
+.publication-menu__item a:hover .publication-article-title {
+  opacity: 1;
 }

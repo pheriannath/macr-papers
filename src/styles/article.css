@@ -144,5 +144,14 @@ article cite {
 
 .bibliography {
   list-style: none;
-  font-weight: bold;
+}
+
+.bibliography li {
+  margin: 0.8rem 0;
+}
+
+.two-up {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
 }
