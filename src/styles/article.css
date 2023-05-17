@@ -155,3 +155,8 @@ article cite {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
 }
+
+article audio {
+  display: flex;
+  margin: 1.5rem auto;
+}

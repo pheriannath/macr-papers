@@ -10,6 +10,7 @@ import Enchant from "./enchant";
 import Evolve from "./evolve";
 import Ghost from "./ghost";
 import Grave from "./grave";
+import Legacy from "./legacy";
 
 const publication = {
   id: "tom",
@@ -214,14 +215,22 @@ const publication = {
       component: <Grave />,
     },
     {
-      id: "foreword",
+      id: "legacy",
       order: 14,
-      title: "",
-      author: "",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      title: "Legacy",
+      author: "Rena Tom",
+      authorShort: "Tom",
+      tags: [
+        "coursework",
+        "visual essay",
+        "absence",
+        "craft practices",
+        "heritage",
+        "mapping",
+      ],
+      citation: `Tom, Rena. “Legacy,” in Encyclopedia of Craft Studies (Abridged) edited by Rena Tom. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-8-7 `,
+      url: "https://www.theMACRPapers/tom/legacy",
+      component: <Legacy />,
     },
     {
       id: "foreword",
