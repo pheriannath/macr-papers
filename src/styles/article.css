@@ -21,6 +21,7 @@ article .title {
 }
 
 article hr {
+  margin: 2rem 0;
   border: 0;
   border-top: 2px solid var(--highlight);
 }
@@ -159,4 +160,9 @@ article cite {
 article audio {
   display: flex;
   margin: 1.5rem auto;
+}
+
+figure + figure,
+.bibliography + figure {
+  margin-top: 2.5rem;
 }
