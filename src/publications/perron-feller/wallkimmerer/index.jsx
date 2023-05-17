@@ -5,7 +5,7 @@ const WallKimmerer = () => {
         Robin Wall Kimmerer is a botanist, educator, writer, and citizen of the
         Potawatomi Nation who advocates for broadening scientific practices by
         incorporating Indigenous knowledge and artistic perspectives into
-        research. In the chapter “Asters and Goldenrod,” Kimmerer recounts being
+        research. In the chapter "Asters and Goldenrod," Kimmerer recounts being
         told by her freshman adviser in forestry school that her idea of science
         was wrong when she expressed that she wanted to be a botanist in order
         to learn why certain flowers looked beautiful together and why some
@@ -16,8 +16,8 @@ const WallKimmerer = () => {
         In this chapter Kimmerer describes a common rigidity in academic
         training that she had to acquiesce to while in school. Since then she
         has been able to bring Indigenous knowledge, in which knowing comes from
-        an understanding through “all four aspects of our being: mind, body,
-        emotion, and spirit,” and creativity back into her scientific practice.
+        an understanding through "all four aspects of our being: mind, body,
+        emotion, and spirit," and creativity back into her scientific practice.
         Her story is a reminder of the resilience needed when making
         epistemological connections that others might not immediately recognize.
         In other words, even though Kimmerer was not encouraged to study the
@@ -29,9 +29,14 @@ const WallKimmerer = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/wallkimmerer/spread.jpg"} />
+        <img
+          src={
+            process.env.PUBLIC_URL +
+            "/img/perron-feller/wallkimmerer/spread.jpg"
+          }
+        />
         <figcaption>
-          Wall Kimmerer, Robin. “Asters and Goldenrod.” In Braiding Sweetgrass,
+          Wall Kimmerer, Robin. "Asters and Goldenrod." In Braiding Sweetgrass,
           39-47. Minneapolis: Milkweed Editions, 2013.
         </figcaption>
       </figure>

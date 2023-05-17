@@ -5,8 +5,8 @@ const Buckert = () => {
         Morgan Buckert, a traditional cowboy boot maker living in Hailey, Idaho,
         works in the nonprofit field making camping and other outdoor
         experiences more accessible for people across economic classes. She
-        juggles multiple endeavors because she is always in pursuit of a “full
-        brain,” which she is able to achieve by discovering the complex
+        juggles multiple endeavors because she is always in pursuit of a "full
+        brain," which she is able to achieve by discovering the complex
         possibilities of how the undertakings might relate, even if they do not
         overlap. In our conversation I asked about her education outside of
         school. She told me about how much more math made sense to her in
@@ -20,8 +20,8 @@ const Buckert = () => {
         is very similar to being a camp counselor, who often has many varied
         responsibilities including providing emotional support, managing safety,
         and teaching. Through her many interests Buckert has developed what
-        education and utopia scholar John Freeman-Moir would call, “the utopian
-        habit of acting in terms of seeing the world whole.” In my conversations
+        education and utopia scholar John Freeman-Moir would call, "the utopian
+        habit of acting in terms of seeing the world whole." In my conversations
         with both Buckert and Den Herder I recognized that their multiple
         practices give them unique perspectives. Even though Buckert keeps her
         endeavors siloed from one another, it is clear that she and Den Herder
@@ -184,8 +184,8 @@ const Buckert = () => {
       </p>
       <p>
         <span className="speaker">MB:</span> Yeah, one of my favorite quotes
-        from a book, I think from undergrad, is “on either end of the social
-        spectrum lies a leisure class.” I think it was specifically referring to
+        from a book, I think from undergrad, is "on either end of the social
+        spectrum lies a leisure class." I think it was specifically referring to
         sports, like professional football players are more likely to be from a
         lower income. And, you know, someone who is a professional skier, or I
         should say professional, someone who gets to ski every day is going to

@@ -11,6 +11,7 @@ const publication = {
       order: "1",
       title: "Making Room, Making Connections, Making History: Editor's Note",
       author: "Jill DiMassimo & Joanna Weiss",
+      authorShort: "DiMassimo & Weiss",
       tags: [
         "introduction",
         "new writing (student)",

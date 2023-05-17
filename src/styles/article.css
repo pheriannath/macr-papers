@@ -30,6 +30,10 @@ article blockquote {
   padding: 0;
 }
 
+blockquote.indented {
+  margin: 1rem 2.5rem;
+}
+
 .tags,
 .author {
   font-family: var(--sans-serif);
@@ -79,7 +83,7 @@ article blockquote {
 }
 
 article a,
-article sup,
+cite sup,
 .speaker {
   color: var(--highlight);
 }
@@ -124,5 +128,21 @@ article img {
 
 .speaker,
 .question {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+article cite {
+  display: block;
+  margin: 0.5rem 0;
+  font-style: normal;
+  font-size: 0.9rem;
+}
+
+.bibliography {
+  list-style: none;
   font-weight: bold;
 }

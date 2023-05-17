@@ -3,8 +3,8 @@ const Johnson = () => {
     <div>
       <p>
         Emily Johnson is an artist, organizer, and award-winning choreographer
-        whose body-based work functions as “portals and care processions [that]
-        engage audienceship within and through space, time, and environments.”
+        whose body-based work functions as "portals and care processions [that]
+        engage audienceship within and through space, time, and environments."
         Like Buckert, Johnson is a practitioner of multiple disciplines such as
         dance, writing, and organizing for justice, which are all rooted in her
         relationship to her surroundings as a Yup'ik water and land protector.
@@ -15,14 +15,14 @@ const Johnson = () => {
         environment.
       </p>
       <p>
-        Johnson’s essay <em>Surgent Love</em> opens with a story about twice
+        Johnsons essay <em>Surgent Love</em> opens with a story about twice
         losing and finding a wallet that her grandmother made. This story is the
         matrix around which she develops several more narratives about dancing,
         ancestral language, activism, assault, and responsibility that describe
         brutal loss and powerful resistance. Through dance and singing and
         teaching she strives to build community with gestures of collective love
         that resist violence by feeling deep connection. Love is a great
-        connector and therefore a great healer. Several of Johnson’s roles and
+        connector and therefore a great healer. Several of Johnsons roles and
         practices are articulated in the branching stories included in this
         piece of writing. What ties them together is her commitment to
         harnessing performance as a means of connecting people to one another
@@ -39,26 +39,44 @@ const Johnson = () => {
       <p>Beryl Perron-Feller</p>
       <hr />
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/johnson/wallet.jpeg"} />
+        <img
+          src={
+            process.env.PUBLIC_URL + "/img/perron-feller/johnson/wallet.jpeg"
+          }
+        />
         <figcaption>
-          Image 1: Grandma’s wallet, from the artist’s personal archive
+          Image 1: Grandmas wallet, from the artists personal archive
         </figcaption>
       </figure>
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/johnson/que-ana-bar.jpeg"} />
+        <img
+          src={
+            process.env.PUBLIC_URL +
+            "/img/perron-feller/johnson/que-ana-bar.jpeg"
+          }
+        />
         <figcaption>
-          Image 2: Family photos (Que-Ana Bar and Beaver Dam), from the artist’s
+          Image 2: Family photos (Que-Ana Bar and Beaver Dam), from the artists
           personal archive
         </figcaption>
       </figure>
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/johnson/ocetisakowin.jpeg"} />
+        <img
+          src={
+            process.env.PUBLIC_URL +
+            "/img/perron-feller/johnson/ocetisakowin.jpeg"
+          }
+        />
         <figcaption>
-          Image 3: Oceti Sakowin, from the artist’s personal archive
+          Image 3: Oceti Sakowin, from the artists personal archive
         </figcaption>
       </figure>
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/johnson/fellowship.jpg"} />
+        <img
+          src={
+            process.env.PUBLIC_URL + "/img/perron-feller/johnson/fellowship.jpg"
+          }
+        />
         <figcaption>
           Image 4: Emily Johnson,{" "}
           <em>Then a Cunning Voice and a Night We Spend Gazing at Stars</em>{" "}
@@ -68,11 +86,11 @@ const Johnson = () => {
       </figure>
 
       <p>
-        My Grandma Hanna made the wallet I carry with me every day. It’s tanned
+        My Grandma Hanna made the wallet I carry with me every day. Its tanned
         caribou hide, trimmed with small green and white glass beads, a perfect
         five-petal flower — dark green, iridescent orange, with a light-pink
-        centre. It’s sitting next to me as I write this from Lenapeyok homeland,
-        Lenapehoking. I carry my grandma’s gorgeous wallet with me, proudly lay
+        centre. Its sitting next to me as I write this from Lenapeyok homeland,
+        Lenapehoking. I carry my grandmas gorgeous wallet with me, proudly lay
         it on the table or bar when I am about to pay. People always ask. And I
         smile. I get to tell them Grandma made it. And I get to tell them she
         won a blue ribbon at the state fair.
@@ -87,7 +105,7 @@ const Johnson = () => {
         pulled loose from the trim.
       </p>
 
-      <p>I’ve lost Grandma’s wallet twice.</p>
+      <p>Ive lost Grandmas wallet twice.</p>
 
       <p>
         <p>
@@ -102,48 +120,48 @@ const Johnson = () => {
         Someone found it. Simpson Housing, an organisation serving people
         experiencing homelessness, called to let me know a client of theirs had
         my wallet. He saw a commonality between us and wanted to give it back,
-        directly to me. I said, ‘Of course! When is he there?’ She said, ‘We
-        never know.’
+        directly to me. I said, ‘Of course! When is he there? She said, ‘We
+        never know.
       </p>
 
       <p>
         I went to Simpson Housing a few times, brought a gift card, left notes,
-        kept hoping to run into the man holding onto Grandma’s wallet, a man
-        whose name I couldn’t know. Our time never coalesced. Or maybe he never
+        kept hoping to run into the man holding onto Grandmas wallet, a man
+        whose name I couldnt know. Our time never coalesced. Or maybe he never
         went back. Or maybe I gave up too early. I eventually stopped making the
         trip across town.
       </p>
 
       <p>
-        Two years later Grandma’s wallet came back to me in a package from
+        Two years later Grandmas wallet came back to me in a package from
         Simpson Housing. Everything that had been in it was inside. I called.
         There was no one to explain.
       </p>
       <p>
         <p>
-          A while after this, in Dzidzelaľic̆/Dkhw’Duw’Absh (Seattle), I was
-          making a dance called <em>The Thank-you Bar</em> and improvising, my
-          eyes closed. <em>The Thank-you Bar</em> is named after my Grandma
-          Hanna’s roadside bar in Alaska, The Que-Ana Bar, and I made it during
-          a period of intense homesickness.
+          A while after this, in Dzidzelaľic̆/DkhwDuwAbsh (Seattle), I was making
+          a dance called <em>The Thank-you Bar</em> and improvising, my eyes
+          closed. <em>The Thank-you Bar</em> is named after my Grandma Hannas
+          roadside bar in Alaska, The Que-Ana Bar, and I made it during a period
+          of intense homesickness.
         </p>
         <p></p>
       </p>
 
       <p>
-        Looking back, I think I was understanding I wouldn’t be moving home to
+        Looking back, I think I was understanding I wouldnt be moving home to
         Alaska again. I was searching, internally and externally, for the
         reasons why, for the implications, decisions and impacts of displacement
-        — chosen in my case, or forced in many others’. I was in longing for
+        — chosen in my case, or forced in many others. I was in longing for
         home, of home.
       </p>
 
       <p>
         I was thinking of language, of why Grandma chose to name her bar Que-Ana
-        — after the Yup’ik word, quyana, thank you. How she kept and asserted a
+        — after the Yupik word, quyana, thank you. How she kept and asserted a
         spoken part of our culture with her naming of the bar. Why did she
         choose phonetic spelling? Because her customers down on the Kenai
-        Peninsula, away from Yup’ik homeland, are not Yup’ik? Because Que-Ana is
+        Peninsula, away from Yupik homeland, are not Yupik? Because Que-Ana is
         easier to see or say than quyana? Or, was it not intentional at all,
         because while Yugtun is her first language, she learnt it before it was
         written down?
@@ -151,9 +169,9 @@ const Johnson = () => {
 
       <p>
         <p>
-          I always loved this Yup’ik oasis, named in and for gratitude. And I’ve
+          I always loved this Yupik oasis, named in and for gratitude. And Ive
           always been grateful for the bar, even though some rough stuff
-          happened there too. Grandma’s house and bar, where we cleaned and
+          happened there too. Grandmas house and bar, where we cleaned and
           smoked our fish, where we gathered to hunt, where great-Grandma Lena
           played solitaire, when visiting, where there was almost always a
           scrabble game on, where all my cousins and brothers would run up the
@@ -175,8 +193,8 @@ const Johnson = () => {
 
       <p>
         I asked a bird researcher at Florida State University, ‘what happens to
-        the birds when we knock down their trees?’ Expecting a more esoteric
-        answer, she said, ‘they move homes. They rebuild their nests.’ I suppose
+        the birds when we knock down their trees? Expecting a more esoteric
+        answer, she said, ‘they move homes. They rebuild their nests. I suppose
         the beavers did this too. There were times, making{" "}
         <em>The Thank-you Bar</em>, I would shut my eyes, imagine dancing on the
         small dance floor at the Que-Ana Bar, near the pool table, across from
@@ -184,38 +202,38 @@ const Johnson = () => {
         sparkling ceiling probably made of asbestos. I absolutely tried to be in
         two places at once, to build that internal muscle I know is there from
         my time and space travelling ancestors — I got it, sometimes. I could be
-        back ‘home’ at Grandma’s bar, and be dancing in the studio too.
+        back ‘home at Grandmas bar, and be dancing in the studio too.
       </p>
 
       <p>
         Maybe it was one of these moments, when I was preoccupied with space and
         time travel, that a stranger came into the studio in
-        Dzidzelaľic̆/Dkhw’Duw’Absh. He knelt beside my tote bag. I rewound the
+        Dzidzelaľic̆/DkhwDuwAbsh. He knelt beside my tote bag. I rewound the
         video camera and could see him – reflected in the mirror behind me —
-        kneel down, reach inside and take the clutch, Grandma’s wallet inside,
-        as I danced.
+        kneel down, reach inside and take the clutch, Grandmas wallet inside, as
+        I danced.
       </p>
 
       <p>
         Weeks later I opened a small package from the Seattle post office.
-        Accompanying Grandma’s wallet was a handwritten note: ‘This happens,
-        sometimes people take what they want, throw the rest in the postbox.
-        It’s our policy to return what belongings we can.’
+        Accompanying Grandmas wallet was a handwritten note: ‘This happens,
+        sometimes people take what they want, throw the rest in the postbox. Its
+        our policy to return what belongings we can.
       </p>
 
       <p>
-        Sometimes I stuff Grandma’s wallet too full with receipts and coins. I
+        Sometimes I stuff Grandmas wallet too full with receipts and coins. I
         empty it, smooth the corners, tend the beads, rub the caribou hide. I
         tell the story of how it has gone missing and found its way back, twice.
         Grandma likes this story too.
       </p>
 
       <p>
-        I’ve never asked Grandma why she didn’t teach us Yungtun. As I look at
-        the post-its fading next to me on my wall — ellangengcinartua, gradual
+        Ive never asked Grandma why she didnt teach us Yungtun. As I look at the
+        post-its fading next to me on my wall — ellangengcinartua, gradual
         process of becoming aware; agayu, to pray; elpengengnaqi, an
         encouragement to gradually seek acquisition of the senses, feelings,
-        mind; qaneq, mouth — and as I note I haven’t opened my Yungtun app in
+        mind; qaneq, mouth — and as I note I havent opened my Yungtun app in
         weeks, I suffer in how learning language as an adult frustrates me and
         makes me wish I knew from a young girl how to move my mouth and throat
         correctly, how to speak to my ancestors in their language, how to
@@ -226,19 +244,19 @@ const Johnson = () => {
 
       <p>
         But I also remember Grandma giving me my first Yungtun dictionary as I
-        stood to bow after the premiere of <em>The Thank-you Bar</em> in
-        Dena’ina Ełnena (Anchorage, Alaska). And I think of how I’ll call her
-        now, ask pronunciation or meanings of words. I remember how as soon as
-        we step off the plane into Mamterilleq (Bethel), she’ll start speaking
-        language and say how good it feels. How sometimes she’ll sing in
-        language. It took me some time to recognise Grandma’s refusal to teach
-        her kids and grandkids’ language as an act of care. And this is how I
-        think of it now. It was the way she had been taught — to protect. An
-        extension of care in the absence of teaching, (a mind-fuck, really, for
-        those of us with less patience) and truly only a pause until, at least
-        for our family, the radical resurgence, as Leanne Betasamoskake Simpson
-        calls it, can (begin to) occur, can root in our mouths and our bones,
-        can call us to refuse to not know any longer.
+        stood to bow after the premiere of <em>The Thank-you Bar</em> in Denaina
+        Ełnena (Anchorage, Alaska). And I think of how Ill call her now, ask
+        pronunciation or meanings of words. I remember how as soon as we step
+        off the plane into Mamterilleq (Bethel), shell start speaking language
+        and say how good it feels. How sometimes shell sing in language. It took
+        me some time to recognise Grandmas refusal to teach her kids and
+        grandkids language as an act of care. And this is how I think of it now.
+        It was the way she had been taught — to protect. An extension of care in
+        the absence of teaching, (a mind-fuck, really, for those of us with less
+        patience) and truly only a pause until, at least for our family, the
+        radical resurgence, as Leanne Betasamoskake Simpson calls it, can (begin
+        to) occur, can root in our mouths and our bones, can call us to refuse
+        to not know any longer.
       </p>
 
       <p>**</p>
@@ -259,7 +277,7 @@ const Johnson = () => {
         until we whipped it enough, the Crisco difficult to find in Australia
         save ex-pat and dear friend Nancy Black, who knew where to get it. Our
         efforts and the challenge and idea of sharing something from home merged
-        with Jen’s skill and determination and the collaborative effort of us
+        with Jens skill and determination and the collaborative effort of us
         all, including the elderly Italian man who harvested and delivered
         prickly pears for the sweet reduction we needed. Nothing makes me proud
         as offering something my grandma taught us to make.
@@ -273,7 +291,7 @@ const Johnson = () => {
 
       <p>
         I smiled every time someone came back for seconds of the ‘fish ice
-        cream.’
+        cream.
       </p>
 
       <p>Grandma likes this story too.</p>
@@ -314,24 +332,24 @@ const Johnson = () => {
 
       <p>
         My grandma told me she was not allowed to attend yuraq, dance, in the
-        village where she grew up. She said, ‘Mama didn’t let us go.’ She was
+        village where she grew up. She said, ‘Mama didnt let us go. She was
         allowed to watch the dancers practice and sometimes she made the trip
         across the river with her mom and sister in winter to do so. But when
         the village gathered for yuraq, ‘when we would ask her if we could go
-        she said, “no, you can’t go.”’ Her mother never explained it, she just
-        said, ‘no, you can’t go.’ In 1994, when Grandma and I went to Yupiit
-        Yuraryarait dance festival in Negeqliq (St. Mary’s, Alaska) it was the
+        she said, "no, you cant go." Her mother never explained it, she just
+        said, ‘no, you cant go. In 1994, when Grandma and I went to Yupiit
+        Yuraryarait dance festival in Negeqliq (St. Marys, Alaska) it was the
         first time she had seen yuraq in decades.
       </p>
 
       <blockquote>
         How do we feel that rub of love and grief?
         <br />
-        ‘Mama didn’t let us go.’
+        ‘Mama didnt let us go.
         <br />
         How do we let that propel us to good action?
         <br />
-        ‘Put down your guns.’
+        ‘Put down your guns.
         <br />
         <br />
         How do we say each day - I am sorry?
@@ -356,15 +374,15 @@ const Johnson = () => {
 
       <p>
         There is a dance I want to make that moves the world. It moves the
-        audience, makers and performers from ‘stage’ to continued action and
-        work in the world and future. Not as in ‘inspire’ and not as in ‘guide.’
-        I want to make a deep structural change and consciousness shift — a
-        community centred coalition of allyship that centres Indigenous
-        brilliance, that is justice, that is equity in action. I speak of dances
-        as gatherings. I speak of performing as offering. I see dance as vital
-        in the world because we are — human and more than human, star and
-        constellation, fire and tree, all oceans and water, ancestor and future
-        ancestor, thought and Indigenous led knowledges — moving, surging.
+        audience, makers and performers from ‘stage to continued action and work
+        in the world and future. Not as in ‘inspire and not as in ‘guide. I want
+        to make a deep structural change and consciousness shift — a community
+        centred coalition of allyship that centres Indigenous brilliance, that
+        is justice, that is equity in action. I speak of dances as gatherings. I
+        speak of performing as offering. I see dance as vital in the world
+        because we are — human and more than human, star and constellation, fire
+        and tree, all oceans and water, ancestor and future ancestor, thought
+        and Indigenous led knowledges — moving, surging.
       </p>
 
       <p>
@@ -377,7 +395,7 @@ const Johnson = () => {
       <p>It is not easy work, this Indigenous, surgent love.</p>
 
       <p>
-        The first time I was raped was in a tent. I’ve slept in many tents and I
+        The first time I was raped was in a tent. Ive slept in many tents and I
         love the heat that builds in them overnight. Just the sleeping heat. The
         tent we had when I was a kid was army green and huge. We most usually
         camped by the ocean, my brothers and I and our cousins falling asleep to
@@ -389,20 +407,20 @@ const Johnson = () => {
 
       <p>
         The other night, I stepped into a hotel elevator filled with five men. I
-        am not afraid of men and I’m also not not afraid of men. I said hello to
+        am not afraid of men and Im also not not afraid of men. I said hello to
         the still air. I looked them each in the face. When I stepped out at my
         floor the guy who had been in front of me and to the left, facing me
         with his back to the north side of the elevator, yelled out his room
-        number. I heard one of the other guys say, ‘dude, you’re a dick.’
-        Someone else laughed and I can say that I despise this moment — this
-        moment this man took space and air from the world to extend his assuming
-        callous dismantled remorseless raping conquering taking taking taking
-        thoughts to me at me as if anything he wanted to take he could take, as
-        if anything he wanted could be smattered by his disgusting self and left
-        on me, in me. The back of my neck became a neck that is not mine. It is
-        not my neck anymore or ever again. It is not my neck to feel shame put
-        upon it, to droop down so low that my forehead curls into my chest, so
-        low that my chest curls into my belly, curling, huddled into itself,
+        number. I heard one of the other guys say, ‘dude, youre a dick. Someone
+        else laughed and I can say that I despise this moment — this moment this
+        man took space and air from the world to extend his assuming callous
+        dismantled remorseless raping conquering taking taking taking thoughts
+        to me at me as if anything he wanted to take he could take, as if
+        anything he wanted could be smattered by his disgusting self and left on
+        me, in me. The back of my neck became a neck that is not mine. It is not
+        my neck anymore or ever again. It is not my neck to feel shame put upon
+        it, to droop down so low that my forehead curls into my chest, so low
+        that my chest curls into my belly, curling, huddled into itself,
         drowning in his voice and sounds. That is not my neck, not my body, not
         my hatred, not my drowning.
       </p>
@@ -422,8 +440,8 @@ const Johnson = () => {
         My grandma was not allowed to attend yuraq and there was no explanation
         offered. Grandma can speculate that perhaps it was the distance, that
         trip across the river; perhaps the time commitment would have taken a
-        toll on the family; perhaps it was because her mom didn’t know how to
-        dance (she said that one with a laugh!). I wonder, too, was her mom’s
+        toll on the family; perhaps it was because her mom didnt know how to
+        dance (she said that one with a laugh!). I wonder, too, was her moms
         refusal also a form of protection? An extension of care through absence,
         again, until my grandma could, with me, her granddaughter, share yuraq
         in Negeqliq? Where we could surge forward together, feasting with
@@ -439,7 +457,7 @@ const Johnson = () => {
 
       <p>
         There is a dance I made called <em>Then a Cunning Voice</em> and{" "}
-        <em>A Night We Spend Gazing at Stars</em>. It’s fifteen hours long, from
+        <em>A Night We Spend Gazing at Stars</em>. Its fifteen hours long, from
         sundown to sunrise, outdoors, on eighty-four hand-sewn quilts made in
         sewing bees on Turtle Island, in so-called Australia and Taiwan. It
         focuses attention on the space we share, the histories we hold, and how
@@ -454,7 +472,7 @@ const Johnson = () => {
       <p>
         There is a moment in this dance when I ask someone to kiss the back of
         my hand, my fingertips, my shoulder blades. There is a moment when I ask
-        someone to hold my arms. Someone I love told me once they didn’t like
+        someone to hold my arms. Someone I love told me once they didnt like
         this moment. They thought it might be, in this performative setting, not
         a real interaction. As in who, attending a fifteen-hour all-night
         performance about collective intentionality, would say no?
@@ -464,12 +482,12 @@ const Johnson = () => {
         I understand this point. Or, rather, the deeper problem behind the
         point. There are times in performance when an interaction is not real,
         when care is not offered, when consent is not respected or required. I
-        don’t mean performance needs to be careful. Quite the opposite.
+        dont mean performance needs to be careful. Quite the opposite.
         Performance needs to be so radically involved in collective
         consciousness that it can shift said consciousness, that it can be a
         catalyst for change. When performance is not real, then it is performed.
         Just as solidarity, when performed, is not real but dangerous, usurped
-        into, as Eve Tuck describes, ‘settler moves to innocence.’
+        into, as Eve Tuck describes, ‘settler moves to innocence.
       </p>
 
       <p>My grandma was not allowed to attend dances.</p>
@@ -491,24 +509,24 @@ const Johnson = () => {
 
       <p>
         There are two times I most vividly remember my arms being held. In
-        Dena’ina Ełnena, Nadia Jackinsky Sethi stood up. Nadia and I have spent
-        a small amount of time together in Quinhagak, Alaska. We shared a walk
+        Denaina Ełnena, Nadia Jackinsky Sethi stood up. Nadia and I have spent a
+        small amount of time together in Quinhagak, Alaska. We shared a walk
         there, time with the Bering Sea, and time with kids, Elders, and
         cultural belongings of Nunalleq. A Sugpiaq art historian, Nadia knows
         and leads cultural rematriative efforts and brings arts activities to
         Alaska Native communities through her work with CIRI Foundation. Nadia
-        and I don’t know each other all that well yet, but when I asked someone
+        and I dont know each other all that well yet, but when I asked someone
         to hold my arms and then walked to her, my arms outstretched, she
         wrapped her hands beneath my upper arms, held their weight. She relieved
         me for a moment of all I hold. She offered a knowing power. We looked at
         one another, I recall this vibrant feeling, a grounded sadness, a drawn
         breath, an un-worded moment of seeing one another and time — the
         knowledge real seeing brings moved between us. An Indigenous woman
-        holding another Indigenous woman’s arms for her because she asked. In
-        the offering to hold we reciprocated in love. I feel deeply committed to
+        holding another Indigenous womans arms for her because she asked. In the
+        offering to hold we reciprocated in love. I feel deeply committed to
         Nadia. If she called me from Alaska today and needed me to hear her or
         hold her or send an email or take a selfie or tell her a joke or answer
-        a question, I would. I want to reciprocate Nadia’s care for me.
+        a question, I would. I want to reciprocate Nadias care for me.
       </p>
 
       <p>
@@ -549,7 +567,7 @@ const Johnson = () => {
         And then, complete awareness. An awareness and a way of standing from
         the inside of my body, with no centre, no regulation of centre or edge,
         or front or back. A roundness with an understanding that as a human is
-        hard to put words to but I’ll try. It was like no edge. No seeing, no
+        hard to put words to but Ill try. It was like no edge. No seeing, no
         need for orientation. The stars were there and the ground was there and
         the deepest inside of my body was also outside of my body but in a way I
         was still whole. If there were a word in the English language for
@@ -570,7 +588,7 @@ const Johnson = () => {
 
       <p>I remember our singing in the face of violence.</p>
 
-      <p>I remember the first Yup’ik word I knew, quyana.</p>
+      <p>I remember the first Yupik word I knew, quyana.</p>
 
       <p>I champion all of us at all of the front lines.</p>
 
@@ -595,7 +613,7 @@ const Johnson = () => {
       </p>
 
       <p>
-        Thank you everyone who returned Grandma’s wallet to me.
+        Thank you everyone who returned Grandmas wallet to me.
         <br />
         Thank you everyone who is surgent love. We refuse to not know it any
         longer.
@@ -617,7 +635,7 @@ const Johnson = () => {
 
       <p>
         Emily Johnson is an artist who makes body-based work. She is from the
-        Yup’ik nation and is of Yup’ik and settler descent. She lives on
+        Yupik nation and is of Yupik and settler descent. She lives on
         Mannahatta, in Lenapehoking, the unceded homeland of Lenapeyok people.
       </p>
 

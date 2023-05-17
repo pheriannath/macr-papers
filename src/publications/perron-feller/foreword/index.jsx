@@ -74,8 +74,8 @@ const Foreword = () => {
       </p>
       <hr />
       <cite>
-        <sup id="annotation-1">1.</sup> John Freeman-Moir, “Crafting Experience:
-        William Morris, John Dewey, and Utopia,” Utopian Studies 22, no. 2
+        <sup id="annotation-1">1.</sup> John Freeman-Moir, "Crafting Experience:
+        William Morris, John Dewey, and Utopia," Utopian Studies 22, no. 2
         (2011): 220.
       </cite>
     </div>
