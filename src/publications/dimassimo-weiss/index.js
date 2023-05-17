@@ -24,7 +24,7 @@ const publication = {
         "labor",
         "black history",
       ],
-      citation: `DiMassimo, Jill and Joanna Weiss, "Making Room, Making Connections, Making History: Editors' Note," in Reclaiming the Center: Making Way for Black Craft, edited by Jill DiMassimo and Joanna Weiss. The MACR Papers, Swannanoa, NC: the MA in Critical Craft Studies, 2023. Copyright remains with the author. ISBN 978-1-7351592-3-2`,
+      citation: `DiMassimo, Jill and Joanna Weiss, "Making Room, Making Connections, Making History: Editors' Note," Reclaiming the Center: Making Way for Black Craft, edited by Jill DiMassimo and Joanna Weiss. The MACR Papers, Swannanoa, NC: the MA in Critical Craft Studies, 2023. Copyright remains with the author. ISBN 978-1-7351592-3-2`,
       url: "www.macraftstudieswwc.com/theMACRPapers/dimassimo_weiss/editornote",
       component: <EditorNote />,
     },

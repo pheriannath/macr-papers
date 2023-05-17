@@ -33,8 +33,9 @@ const DenHerder = () => {
         think collaboratively and relationally about the built environment.
       </p>
       <p>
-        <i>* Interview edited for clarity and length</i>
+        <i>Interview edited for clarity and length</i>
       </p>
+      <p>*</p>
       <p className="question">
         <span className="speaker">Beryl Perron-Feller:</span> Can you start by
         just talking a little bit about what you do?
