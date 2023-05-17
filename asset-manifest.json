@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/macr-papers/static/css/main.73f18c86.css",
-    "main.js": "/macr-papers/static/js/main.83c88fba.js",
+    "main.js": "/macr-papers/static/js/main.6d9f4ca4.js",
     "static/media/book.gif": "/macr-papers/static/media/book.9d3855bfe23bcac59813.gif",
     "static/media/background.jpeg": "/macr-papers/static/media/background.348c70026887f2f8cff2.jpeg",
     "static/media/logo.svg": "/macr-papers/static/media/logo.5d2413dd9e49066f481c75174fb9ab09.svg",
     "index.html": "/macr-papers/index.html",
     "main.73f18c86.css.map": "/macr-papers/static/css/main.73f18c86.css.map",
-    "main.83c88fba.js.map": "/macr-papers/static/js/main.83c88fba.js.map"
+    "main.6d9f4ca4.js.map": "/macr-papers/static/js/main.6d9f4ca4.js.map"
   },
   "entrypoints": [
     "static/css/main.73f18c86.css",
-    "static/js/main.83c88fba.js"
+    "static/js/main.6d9f4ca4.js"
   ]
 }
