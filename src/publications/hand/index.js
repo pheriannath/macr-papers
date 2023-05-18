@@ -3,7 +3,9 @@ import Foreword from "./foreword";
 import Hall from "./hall";
 import Josselson from "./josselson";
 import Joyce from "./joyce";
+import LeeAndHand from "./leeandhand";
 import Taylor from "./taylor";
+import Vowel from "./vowel";
 
 const publication = {
   id: "hand",
@@ -116,24 +118,37 @@ const publication = {
     {
       id: "leeandhand",
       order: 7,
-      title: "",
-      author: "",
+      title:
+        "Practice Makes Progress. A Comment Conversation on the Urban Glass Fall 2022 Feature, “Multilingualism: The Intersecting Art and Advocacy of Helen Lee” ",
+      author: "Helen Lee and Jennifer Hand",
       authorShort: "Lee & Hand",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      tags: [
+        "reprint",
+        "commentary",
+        "craft studies",
+        "criticism",
+        "education",
+      ],
+      citation: `Hand, Jennifer and Helen Lee. “Practice Makes Progress. A Comment Conversation on the Urban Glass Fall 2022 Feature, “Multilingualism: The Intersecting Art and Advocacy of Helen Lee,” in The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      url: "https://www.theMACRPapers/hand/leeandhand",
+      component: <LeeAndHand />,
     },
     {
       id: "vowel",
       order: 8,
-      title: "",
-      author: "",
+      title: "Writing Toward a Definition of Indigenous Futurism",
+      author: "Chelsea Vowel",
       authorShort: "Vowel",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      tags: [
+        "reprint",
+        "essay",
+        "imagined futures",
+        "indigenous knowledge",
+        "indigenous studies",
+      ],
+      citation: `Hand, Jennifer. “Introduction: Chelsea Vowel,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      url: "https://www.theMACRPapers/hand/vowel",
+      component: <Vowel />,
     },
   ],
   accent: "#0baeef",
