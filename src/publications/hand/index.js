@@ -1,5 +1,6 @@
 import Foreword from "./foreword";
 import Hall from "./hall";
+import Joyce from "./joyce";
 
 const publication = {
   id: "hand",
@@ -47,13 +48,21 @@ const publication = {
     {
       id: "joyce",
       order: 3,
-      title: "",
-      author: "",
-      authorShort: "Joyce",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      title: "Joyce Scott: Hard Truth in Beauty",
+      author: "Jennifer Hand",
+      authorShort: "Hand",
+      tags: [
+        "reprint",
+        "interview",
+        "black craftspeople",
+        "craft practices",
+        "criticism",
+        "curation",
+        "social justice",
+      ],
+      citation: `Hand, Jennifer, “Joyce Scott: Hard Truth in Beauty,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      url: "https://www.theMACRPapers/hand/joyce",
+      component: <Joyce />,
     },
     {
       id: "ahmed",
