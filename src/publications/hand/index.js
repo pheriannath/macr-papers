@@ -1,7 +1,9 @@
 import Ahmed from "./ahmed";
 import Foreword from "./foreword";
 import Hall from "./hall";
+import Josselson from "./josselson";
 import Joyce from "./joyce";
+import Taylor from "./taylor";
 
 const publication = {
   id: "hand",
@@ -42,7 +44,7 @@ const publication = {
         "identity",
         "self-knowledge",
       ],
-      citation: `Hand, Jennifer, “Introduction: Stuart Hall,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      citation: `Hand, Jennifer. “Introduction: Stuart Hall,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
       url: "https://www.theMACRPapers/hand/hall",
       component: <Hall />,
     },
@@ -61,7 +63,7 @@ const publication = {
         "curation",
         "social justice",
       ],
-      citation: `Hand, Jennifer, “Joyce Scott: Hard Truth in Beauty,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      citation: `Hand, Jennifer. “Joyce Scott: Hard Truth in Beauty,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
       url: "https://www.theMACRPapers/hand/joyce",
       component: <Joyce />,
     },
@@ -78,31 +80,38 @@ const publication = {
         "critical race theory",
         "decolonization",
       ],
-      citation: `Hand, Jennifer, “Introduction: Sara Ahmed,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      citation: `Hand, Jennifer. “Introduction: Sara Ahmed,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
       url: "https://www.theMACRPapers/hand/ahmed",
       component: <Ahmed />,
     },
     {
       id: "josselson",
       order: 5,
-      title: "",
-      author: "",
+      title:
+        "On Writing Other People’s Lives: Self-analytic Reflections of a Narrative Researcher.",
+      author: "Ruthellen Josselson",
       authorShort: "Josselson",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      tags: ["reprint", "chapter", "identity", "oral history"],
+      citation: `Hand, Jennifer. “Introduction: Ruthellen Josselson,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      url: "https://www.theMACRPapers/hand/josselson",
+      component: <Josselson />,
     },
     {
       id: "taylor",
       order: 6,
-      title: "",
-      author: "",
+      title: "Until Black Women Are Free, None of Us Will Be Free",
+      author: "Keeanga-Yamahtta Taylor",
       authorShort: "Taylor",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      tags: [
+        "reprint",
+        "essay",
+        "anti-racism",
+        "black feminism",
+        "critical race theory",
+      ],
+      citation: `Hand, Jennifer. “Introduction: Keeanga-Yamahtta Taylor,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      url: "https://www.theMACRPapers/hand/taylor",
+      component: <Taylor />,
     },
     {
       id: "leeandhand",
