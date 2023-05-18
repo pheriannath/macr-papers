@@ -1,3 +1,4 @@
+import Ahmed from "./ahmed";
 import Foreword from "./foreword";
 import Hall from "./hall";
 import Joyce from "./joyce";
@@ -67,13 +68,19 @@ const publication = {
     {
       id: "ahmed",
       order: 4,
-      title: "",
-      author: "",
+      title: "A Phenomenology of Whiteness",
+      author: "Sara Ahmed",
       authorShort: "Ahmed",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      tags: [
+        "reprint",
+        "essay",
+        "anti-racism",
+        "critical race theory",
+        "decolonization",
+      ],
+      citation: `Hand, Jennifer, “Introduction: Sara Ahmed,” The Space Between Us: Writing Across Difference in the Crafts, edited by Jennifer Hand. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-5-6  `,
+      url: "https://www.theMACRPapers/hand/ahmed",
+      component: <Ahmed />,
     },
     {
       id: "josselson",
