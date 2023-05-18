@@ -18,7 +18,7 @@ export const PUBLICATIONS = [
 ];
 
 // Helper function to get all unique tags
-const getAllTags = () => {
+export const getAllTags = () => {
   const allArticles = [
     ...Devlin.articles,
     ...DimassimoWeiss.articles,
