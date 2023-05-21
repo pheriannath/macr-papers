@@ -35,7 +35,7 @@ const publication = {
       order: 2,
       title: `"Asters and Goldenrod," from Braiding Sweetgrass`,
       author: "Robin Wall Kimmerer",
-      authorShort: "Wall Kimmerer",
+      authorShort: "Kimmerer",
       tags: [
         "reprint",
         "chapter",
