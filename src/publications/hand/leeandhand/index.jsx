@@ -582,84 +582,152 @@ const LeeAndHand = () => {
         <sup id="annotation-l">L</sup> <strong>Helen:</strong> The title of the
         work is actually the technical formula for this noise signature: “1/f.”
       </cite>
-      <hr />
+
       <cite>
-        <cite>
-          <sup id="annotation-en0">EN0</sup> Jennifer Hand, “Multilingualism,”{" "}
-          <em>Glass Quarterly</em>, no. 168 (Fall 2022), New York: UrbanGlass,
-          24–31.
-        </cite>
-        <cite>
-          <sup id="annotation-en1">EN1</sup> Helen Lee, interview with the
-          author, April 7, 2022.
-        </cite>
-        <cite>
-          <sup id="annotation-en2">EN2</sup> Helen Lee,{" "}
-          <em>
-            My Grandmother Watched Wheel of Fortune Every Day For The Last 20
-            Years of Her Life Not Knowing a Lick of English
-          </em>
-          , Pink Noise, accessed April 6, 2022,
-          <a href="https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/">
-            https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/
-          </a>
-        </cite>
-        <cite>
-          <sup id="annotation-en3">EN3</sup> Helen Lee, interview with the
-          author, July 8, 2022.
-        </cite>
-        <cite>
-          <sup id="annotation-en4">EN4</sup> Helen Lee, interview with the
-          author, April 7, 2022.
-        </cite>
-        <cite>
-          <sup id="annotation-en5">EN5</sup> Helen Lee, interview with the
-          author, July 8, 2022.
-        </cite>
-        <cite>
-          <sup id="annotation-en6">EN6</sup> Related Tactics, Instagram post,
-          March 4, 2022,{" "}
-          <a href="https://www.instagram.com/p/CarG611ONSs/">
-            https://www.instagram.com/p/CarG611ONSs/
-          </a>
-          .
-        </cite>
-        <cite>
-          <sup id="annotation-en7">EN7</sup> Helen Lee, interview with the
-          author, July 8, 2022.
-        </cite>
-        <cite>
-          <sup id="annotation-en8">EN8</sup> Ibid.
-        </cite>
-        <cite>
-          <sup id="annotation-en9">EN9</sup> Ibid.
-        </cite>
-        <cite>
-          <sup id="annotation-en10">EN10</sup> Helen Lee, <em>Infinitive</em>.
-          Pink Noise, accessed April 6, 2022,
-          <a href="https://pink-noise.org/portfolio/infinitive">
-            https://pink-noise.org/portfolio/infinitive
-          </a>
-          .
-        </cite>
-        <cite>
-          <sup id="annotation-en11">EN11</sup> Helen Lee, “Glass/Cash Survey,”
-          <em>New Glass Review</em> (Corning, NY: Corning Museum of Glass,
-          2017), 97.
-        </cite>
-        <cite>
-          <sup id="annotation-en12">EN12</sup> Helen Lee, interview with the
-          author, July 8, 2022.
-        </cite>
-        <cite>
-          <sup id="annotation-en13">EN13</sup> Ibid.
-        </cite>
-        <cite>
-          <sup id="annotation-en14">EN14</sup> Ibid.
-        </cite>
-        <cite>
-          <sup id="annotation-en15">EN15</sup> Ibid.
-        </cite>
+        <sup id="annotation-m">M</sup> <strong>Helen:</strong> Oh interesting.
+        Yes, the work came from an early childhood memory of listening to my
+        father’s breathing, but I don’t think of this work as related to my
+        family’s deep relationship to grief. I think more of [Ferdinand de]
+        Saussure’s tidy graphic of the “model of the speech circuit” and of
+        Steven Pinker’s text from The Language Instinct: “In the speech sound
+        wave, one word runs into the next seamlessly; there are no little
+        silences between spoken words the way there are white spaces between
+        written words. We simply hallucinate word boundaries when we reach the
+        end of a stretch of sound that matches some entry in our mental
+        dictionary.” It’s interesting, though, my father’s death was suicide,
+        and the title reads very differently to me in that context.
+      </cite>
+
+      <cite>
+        <sup id="annotation-n">N</sup> <strong>Helen:</strong> Did I mention Don
+        Mee Choi's DMZ Colony? Required reading!
+      </cite>
+
+      <cite>
+        <sup id="annotation-o">O</sup> <strong>Helen:</strong> Ugh, everything
+        about translation is so clunky and not direct. My name itself literally
+        translates to “red,” but this obscure word for red is most commonly
+        evoked to describe a red cloud before snowfall.
+      </cite>
+
+      <cite>
+        <sup id="annotation-p">P</sup> <strong>Helen:</strong> The cadence and
+        timing of working with landscape gave so much toward this.
+      </cite>
+
+      <cite>
+        <sup id="annotation-q">Q</sup> <strong>Helen:</strong> Well, I dunno. I
+        think the field of glass has always been pretty good at sharing. I would
+        say the frustration would lie more in the lack of professionalism around
+        that. Organizing such efforts with intention instead of
+        hundred-emails-long-threads with hundreds of people just on a cc: and
+        folx sending more emails to add more folx to the cc—in a goddamn
+        nightmare of the worst email etiquette in the world—is a great example
+        of what I’m talking about.
+      </cite>
+
+      <cite>
+        <sup id="annotation-r">R</sup> <strong>Helen:</strong> No, just on the
+        tongue! Yes, there were amulets for each orifice, but the cicadas were
+        specifically tongue amulets.
+      </cite>
+
+      <cite>
+        <sup id="annotation-s">S</sup> <strong>Helen:</strong> Whoa, where did
+        this title come from? The work’s title is Amulet, and the name of the
+        "alphabet" is Zhuyin Fuhao. My August Das Fernglas email does the deep
+        dive into the research behind this work.{" "}
+        <em>
+          [Editor’s note: Das Fernglas is an exhibition-in-an-inbox project by
+          glass artist Anna Mlasowky.]
+        </em>
+      </cite>
+
+      <cite>
+        <sup id="annotation-t">T</sup> <strong>Helen:</strong> My own mortality
+        has been on my mind lately, and I’ve been thinking about my studio
+        practice as the material love letter to my daughter that will outlive my
+        physical life, should it survive the burden of storage (or hopefully
+        better homes) over the years.
+      </cite>
+
+      <hr />
+
+      <cite>
+        <sup id="annotation-en0">EN0</sup> Jennifer Hand, “Multilingualism,”{" "}
+        <em>Glass Quarterly</em>, no. 168 (Fall 2022), New York: UrbanGlass,
+        24–31.
+      </cite>
+      <cite>
+        <sup id="annotation-en1">EN1</sup> Helen Lee, interview with the author,
+        April 7, 2022.
+      </cite>
+      <cite>
+        <sup id="annotation-en2">EN2</sup> Helen Lee,{" "}
+        <em>
+          My Grandmother Watched Wheel of Fortune Every Day For The Last 20
+          Years of Her Life Not Knowing a Lick of English
+        </em>
+        , Pink Noise, accessed April 6, 2022,
+        <a href="https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/">
+          https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/
+        </a>
+      </cite>
+      <cite>
+        <sup id="annotation-en3">EN3</sup> Helen Lee, interview with the author,
+        July 8, 2022.
+      </cite>
+      <cite>
+        <sup id="annotation-en4">EN4</sup> Helen Lee, interview with the author,
+        April 7, 2022.
+      </cite>
+      <cite>
+        <sup id="annotation-en5">EN5</sup> Helen Lee, interview with the author,
+        July 8, 2022.
+      </cite>
+      <cite>
+        <sup id="annotation-en6">EN6</sup> Related Tactics, Instagram post,
+        March 4, 2022,{" "}
+        <a href="https://www.instagram.com/p/CarG611ONSs/">
+          https://www.instagram.com/p/CarG611ONSs/
+        </a>
+        .
+      </cite>
+      <cite>
+        <sup id="annotation-en7">EN7</sup> Helen Lee, interview with the author,
+        July 8, 2022.
+      </cite>
+      <cite>
+        <sup id="annotation-en8">EN8</sup> Ibid.
+      </cite>
+      <cite>
+        <sup id="annotation-en9">EN9</sup> Ibid.
+      </cite>
+      <cite>
+        <sup id="annotation-en10">EN10</sup> Helen Lee, <em>Infinitive</em>.
+        Pink Noise, accessed April 6, 2022,
+        <a href="https://pink-noise.org/portfolio/infinitive">
+          https://pink-noise.org/portfolio/infinitive
+        </a>
+        .
+      </cite>
+      <cite>
+        <sup id="annotation-en11">EN11</sup> Helen Lee, “Glass/Cash Survey,”
+        <em>New Glass Review</em> (Corning, NY: Corning Museum of Glass, 2017),
+        97.
+      </cite>
+      <cite>
+        <sup id="annotation-en12">EN12</sup> Helen Lee, interview with the
+        author, July 8, 2022.
+      </cite>
+      <cite>
+        <sup id="annotation-en13">EN13</sup> Ibid.
+      </cite>
+      <cite>
+        <sup id="annotation-en14">EN14</sup> Ibid.
+      </cite>
+      <cite>
+        <sup id="annotation-en15">EN15</sup> Ibid.
       </cite>
     </div>
   );
