@@ -46,7 +46,7 @@ const Article = () => {
   const { pubId, articleId } = useParams();
   const publication = PUBLICATIONS?.find((pub) => pub.id === pubId);
   const articles = publication?.articles;
-  const article = articles.find((article) => article.id === articleId);
+  const article = articles?.find((article) => article.id === articleId);
 
   return (
     <article>

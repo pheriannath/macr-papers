@@ -34,6 +34,7 @@
   justify-content: center;
   width: 24px;
   height: 24px;
+  font-size: 0.9rem;
   border: 2px solid transparent;
   transform: rotate(45deg);
 }
