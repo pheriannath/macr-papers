@@ -12,7 +12,8 @@ const WallKimmerer = () => {
       <ul className="bibliography">
         <li>
           Wall Kimmerer, Robin. “Wisgaak Gokpenagen: A Black Ash Basket.” In
-          Braiding Sweetgrass, 141-155. Minneapolis: Milkweed Editions, 2013.{" "}
+          <em>Braiding Sweetgrass</em>, 141-155. Minneapolis: Milkweed Editions,
+          2013.{" "}
         </li>
       </ul>
       <p>
