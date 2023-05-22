@@ -51,6 +51,7 @@ blockquote.indented {
 
 .order {
   display: flex;
+  flex-shrink: 0;
   align-items: center;
   justify-content: center;
   width: 24px;
@@ -170,6 +171,12 @@ article cite.main-citation {
 }
 
 .bibliography li {
+  text-indent: -3rem;
+  padding-left: 3rem;
+}
+
+.bibliography li,
+.thanks li {
   margin: 1.5rem 0;
 }
 
@@ -188,4 +195,14 @@ article audio {
 figure + figure,
 .bibliography + figure {
   margin-top: 2.5rem;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.gallery-item figcaption {
+  text-align: left;
 }
