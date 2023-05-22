@@ -34,12 +34,14 @@ import Zombie from "./zombie";
 import Eulogy from "./eulogy";
 
 const publication = {
+  pubId: "tom",
   id: "tom",
   author: "Tom",
   authorFull: "Rena Tom",
   name: "Encyclopedia of Craft Studies (Abridged)",
   articles: [
     {
+      pubId: "tom",
       id: "foreword",
       order: 1,
       title: "Foreword",
@@ -56,6 +58,7 @@ const publication = {
       component: <Foreword />,
     },
     {
+      pubId: "tom",
       id: "acknowledgements",
       order: 2,
       title: "Acknowledgements",
@@ -67,6 +70,7 @@ const publication = {
       component: <Acknowledgements />,
     },
     {
+      pubId: "tom",
       id: "epigraph",
       order: 3,
       title: "Epigraph",
@@ -78,6 +82,7 @@ const publication = {
       component: <Epigraph />,
     },
     {
+      pubId: "tom",
       id: "ancestry",
       order: 4,
       title: "Ancestry",
@@ -97,6 +102,7 @@ const publication = {
       component: <Ancestry />,
     },
     {
+      pubId: "tom",
       id: "archive",
       order: 5,
       title: "Archive",
@@ -108,6 +114,7 @@ const publication = {
       component: "",
     },
     {
+      pubId: "tom",
       id: "aufhebung",
       order: 6,
       title: "Aufhebung",
@@ -127,6 +134,7 @@ const publication = {
       component: <Aufhebung />,
     },
     {
+      pubId: "tom",
       id: "coalesce",
       order: 7,
       title: "Coalesce",
@@ -144,6 +152,7 @@ const publication = {
       component: <Coalesce />,
     },
     {
+      pubId: "tom",
       id: "ecology",
       order: 8,
       title: "Ecology",
@@ -155,6 +164,7 @@ const publication = {
       component: <Ecology />,
     },
     {
+      pubId: "tom",
       id: "educate",
       order: 9,
       title: "Educate",
@@ -173,6 +183,7 @@ const publication = {
       component: <Educate />,
     },
     {
+      pubId: "tom",
       id: "enchant",
       order: 10,
       title: "Enchant",
@@ -191,6 +202,7 @@ const publication = {
       component: <Enchant />,
     },
     {
+      pubId: "tom",
       id: "evolve",
       order: 11,
       title: "Evolve",
@@ -208,6 +220,7 @@ const publication = {
       component: <Evolve />,
     },
     {
+      pubId: "tom",
       id: "ghost",
       order: 12,
       title: "Ghost",
@@ -226,6 +239,7 @@ const publication = {
       component: <Ghost />,
     },
     {
+      pubId: "tom",
       id: "grave",
       order: 13,
       title: "Grave",
@@ -237,6 +251,7 @@ const publication = {
       component: <Grave />,
     },
     {
+      pubId: "tom",
       id: "legacy",
       order: 14,
       title: "Legacy",
@@ -255,6 +270,7 @@ const publication = {
       component: <Legacy />,
     },
     {
+      pubId: "tom",
       id: "lifespan",
       order: 15,
       title: "Lifespan",
@@ -274,6 +290,7 @@ const publication = {
       component: <Lifespan />,
     },
     {
+      pubId: "tom",
       id: "liminal",
       order: 16,
       title: "Liminal",
@@ -291,6 +308,7 @@ const publication = {
       component: <Liminal />,
     },
     {
+      pubId: "tom",
       id: "magic",
       order: 17,
       title: "Magic",
@@ -310,6 +328,7 @@ const publication = {
       component: <Magic />,
     },
     {
+      pubId: "tom",
       id: "map",
       order: 18,
       title: "Map",
@@ -329,6 +348,7 @@ const publication = {
       component: <Map />,
     },
     {
+      pubId: "tom",
       id: "memorial",
       order: 19,
       title: "Memorial",
@@ -346,6 +366,7 @@ const publication = {
       component: <Memorial />,
     },
     {
+      pubId: "tom",
       id: "offering",
       order: 20,
       title: "Offering",
@@ -365,6 +386,7 @@ const publication = {
       component: <Offering />,
     },
     {
+      pubId: "tom",
       id: "palimpsest",
       order: 21,
       title: "Palimpsest",
@@ -382,6 +404,7 @@ const publication = {
       component: <Palimpsest />,
     },
     {
+      pubId: "tom",
       id: "portrait",
       order: 22,
       title: "Portrait",
@@ -398,6 +421,7 @@ const publication = {
       component: <Portrait />,
     },
     {
+      pubId: "tom",
       id: "predict",
       order: 23,
       title: "Predict",
@@ -415,6 +439,7 @@ const publication = {
       component: <Predict />,
     },
     {
+      pubId: "tom",
       id: "publication",
       order: 24,
       title: "Publication",
@@ -432,6 +457,7 @@ const publication = {
       component: <Publication />,
     },
     {
+      pubId: "tom",
       id: "queer",
       order: 25,
       title: "Queer",
@@ -450,6 +476,7 @@ const publication = {
       component: <Queer />,
     },
     {
+      pubId: "tom",
       id: "reframe",
       order: 26,
       title: "Reframe",
@@ -461,6 +488,7 @@ const publication = {
       component: <Reframe />,
     },
     {
+      pubId: "tom",
       id: "renewal",
       order: 27,
       title: "Renewal",
@@ -479,6 +507,7 @@ const publication = {
       component: <Renewal />,
     },
     {
+      pubId: "tom",
       id: "repair",
       order: 28,
       title: "Repair",
@@ -498,6 +527,7 @@ const publication = {
       component: <Repair />,
     },
     {
+      pubId: "tom",
       id: "resolve",
       order: 29,
       title: "Resolve",
@@ -515,6 +545,7 @@ const publication = {
       component: <Resolve />,
     },
     {
+      pubId: "tom",
       id: "souvenir",
       order: 30,
       title: "Souvenir",
@@ -533,6 +564,7 @@ const publication = {
       component: <Souvenir />,
     },
     {
+      pubId: "tom",
       id: "speculate",
       order: 31,
       title: "Speculate",
@@ -551,6 +583,7 @@ const publication = {
       component: <Speculate />,
     },
     {
+      pubId: "tom",
       id: "subvert",
       order: 32,
       title: "Subvert",
@@ -568,6 +601,7 @@ const publication = {
       component: <Subvert />,
     },
     {
+      pubId: "tom",
       id: "talisman",
       order: 33,
       title: "Talisman",
@@ -587,6 +621,7 @@ const publication = {
       component: <Talisman />,
     },
     {
+      pubId: "tom",
       id: "zombie",
       order: 34,
       title: "Zombie",
@@ -598,6 +633,7 @@ const publication = {
       component: <Zombie />,
     },
     {
+      pubId: "tom",
       id: "eulogy",
       order: 35,
       title: "Eulogy",

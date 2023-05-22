@@ -8,12 +8,14 @@ import Taylor from "./taylor";
 import Vowel from "./vowel";
 
 const publication = {
+  pubId: "hand",
   id: "hand",
   author: "Hand",
   authorFull: "Jennifer Hand",
   name: "The Space Between Us - Writing Across Difference in the Crafts",
   articles: [
     {
+      pubId: "hand",
       id: "foreword",
       order: 1,
       title: "Foreword",
@@ -32,6 +34,7 @@ const publication = {
       component: <Foreword />,
     },
     {
+      pubId: "hand",
       id: "hall",
       order: 2,
       title: "Minimal Selves",
@@ -51,6 +54,7 @@ const publication = {
       component: <Hall />,
     },
     {
+      pubId: "hand",
       id: "joyce",
       order: 3,
       title: "Joyce Scott: Hard Truth in Beauty",
@@ -70,6 +74,7 @@ const publication = {
       component: <Joyce />,
     },
     {
+      pubId: "hand",
       id: "ahmed",
       order: 4,
       title: "A Phenomenology of Whiteness",
@@ -87,6 +92,7 @@ const publication = {
       component: <Ahmed />,
     },
     {
+      pubId: "hand",
       id: "josselson",
       order: 5,
       title:
@@ -99,6 +105,7 @@ const publication = {
       component: <Josselson />,
     },
     {
+      pubId: "hand",
       id: "taylor",
       order: 6,
       title: "Until Black Women Are Free, None of Us Will Be Free",
@@ -116,6 +123,7 @@ const publication = {
       component: <Taylor />,
     },
     {
+      pubId: "hand",
       id: "leeandhand",
       order: 7,
       title:
@@ -134,6 +142,7 @@ const publication = {
       component: <LeeAndHand />,
     },
     {
+      pubId: "hand",
       id: "vowel",
       order: 8,
       title: "Writing Toward a Definition of Indigenous Futurism",

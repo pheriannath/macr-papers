@@ -5,12 +5,14 @@ import Buckert from "./buckert";
 import Johnson from "./johnson";
 
 const publication = {
+  pubId: "perron-feller",
   id: "perron-feller",
   author: "Perron-Feller",
   authorFull: "Beryl Perron-Feller",
   name: "Finding Common Ground Through Craft",
   articles: [
     {
+      pubId: "perron-feller",
       id: "foreword",
       order: 1,
       title: "Foreword",
@@ -31,6 +33,7 @@ const publication = {
       component: <Foreword />,
     },
     {
+      pubId: "perron-feller",
       id: "wallkimmerer",
       order: 2,
       title: `"Asters and Goldenrod," from Braiding Sweetgrass`,
@@ -48,6 +51,7 @@ const publication = {
       component: <WallKimmerer />,
     },
     {
+      pubId: "perron-feller",
       id: "denherder",
       order: 3,
       title: `Ecology of Built Environments: An Interview with Structural Engineer Justin Den Herder`,
@@ -67,6 +71,7 @@ const publication = {
       component: <DenHerder />,
     },
     {
+      pubId: "perron-feller",
       id: "buckert",
       order: 4,
       title: `Constructing an Interdisciplinary Life: An Oral History with Morgan Buckert`,
@@ -87,6 +92,7 @@ const publication = {
       component: <Buckert />,
     },
     {
+      pubId: "perron-feller",
       id: "johnson",
       order: 5,
       title: `Surgent Love `,

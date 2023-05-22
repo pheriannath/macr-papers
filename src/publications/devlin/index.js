@@ -9,12 +9,14 @@ import Boden from "./boden";
 import Hawes from "./hawes";
 
 const publication = {
+  pubId: "devlin",
   id: "devlin",
   author: "Devlin",
   authorFull: "Miriam Devlin",
   name: "Craft Practiced, a reader",
   articles: [
     {
+      pubId: "devlin",
       id: "editorsletter",
       order: 1,
       title: "Editor's Letter",
@@ -34,6 +36,7 @@ const publication = {
       component: <EditorsNote />,
     },
     {
+      pubId: "devlin",
       id: "wallkimmerer",
       order: 2,
       title: "Wisgaak Gokpenagen: A Black Ash Basket",
@@ -52,6 +55,7 @@ const publication = {
       component: <WallKimmerer />,
     },
     {
+      pubId: "devlin",
       id: "adamson",
       order: 3,
       title: "Material Intelligence",
@@ -63,6 +67,7 @@ const publication = {
       component: <Adamson />,
     },
     {
+      pubId: "devlin",
       id: "devlin",
       order: 4,
       title: "On Frames",
@@ -82,6 +87,7 @@ const publication = {
       component: <Devlin />,
     },
     {
+      pubId: "devlin",
       id: "kuo",
       order: 5,
       title: "Swimming Ethnography",
@@ -100,6 +106,7 @@ const publication = {
       component: <Kuo />,
     },
     {
+      pubId: "devlin",
       id: "calderoanddevlin",
       order: 6,
       title: "Conversation with Alexis Rosa Caldero: Wooden Chairs for Healing",
@@ -119,6 +126,7 @@ const publication = {
       component: <CalderoAndDevlin />,
     },
     {
+      pubId: "devlin",
       id: "bernsteinanddevlin",
       order: 7,
       title: "On Manga",
@@ -136,6 +144,7 @@ const publication = {
       component: <BernsteinAndDevlin />,
     },
     {
+      pubId: "devlin",
       id: "boden",
       order: 8,
       title: "Crafts, Perception, and the Possibilities of the Body",
@@ -147,6 +156,7 @@ const publication = {
       component: <Boden />,
     },
     {
+      pubId: "devlin",
       id: "hawes",
       order: 9,
       title: "Mouth to Test Spoons",

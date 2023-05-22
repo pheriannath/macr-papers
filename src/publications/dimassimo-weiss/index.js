@@ -15,12 +15,14 @@ import Devlin from "./devlin";
 import AwakeRyland from "./awake_ryland";
 
 const publication = {
+  pubId: "dimassimo_weiss",
   id: "dimassimo_weiss",
   author: "DiMassimo & Weiss",
   authorFull: "Jill DiMassimo & Joanna Weiss",
   name: "Reclaiming the Center: Making Way for Black Craft",
   articles: [
     {
+      pubId: "dimassimo_weiss",
       id: "editornote",
       order: 1,
       title: "Making Room, Making Connections, Making History: Editor's Note",
@@ -44,6 +46,7 @@ const publication = {
       component: <EditorNote />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "approach",
       order: 2,
       title: "Approach",
@@ -62,6 +65,7 @@ const publication = {
       component: <Approach />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "dimassimo_weiss_wiggers",
       order: 2.1,
       title:
@@ -83,6 +87,7 @@ const publication = {
       component: <DiMassimoWeissWiggers />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "dimassimo_momon_weiss",
       order: 2.2,
       title:
@@ -106,6 +111,7 @@ const publication = {
       component: <DiMassimoMomonWeiss />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "absence",
       order: 3,
       title: "Absence",
@@ -123,6 +129,7 @@ const publication = {
       component: <Absence />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "hatch",
       order: 3.1,
       title: "Redacted",
@@ -143,6 +150,7 @@ const publication = {
       component: <Hatch />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "goodman",
       order: 3.2,
       title: "Reflections on “In the Fray”",
@@ -166,6 +174,7 @@ const publication = {
       component: <Goodman />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "presence",
       order: 4,
       title: "Presence",
@@ -182,6 +191,7 @@ const publication = {
       component: <Presence />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "dimassimo",
       order: 4.1,
       title: "Mapping Commeraw’s Jar",
@@ -193,6 +203,7 @@ const publication = {
       component: <DiMassimo />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "hand",
       order: 4.2,
       title:
@@ -214,6 +225,7 @@ const publication = {
       component: <Hand />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "materials",
       order: 5,
       title: "Materials",
@@ -231,6 +243,7 @@ const publication = {
       component: <Materials />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "placeholder",
       order: 5.1,
       title: "",
@@ -242,6 +255,7 @@ const publication = {
       component: "",
     },
     {
+      pubId: "dimassimo_weiss",
       id: "perron-feller",
       order: 5.2,
       title:
@@ -267,6 +281,7 @@ const publication = {
       component: <PerronFeller />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "making",
       order: 6,
       title: "Making",
@@ -284,6 +299,7 @@ const publication = {
       component: <Making />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "devlin",
       order: 6.1,
       title: "Exceptional, Typical, Chairs by Dick Poynor",
@@ -307,6 +323,7 @@ const publication = {
       component: <Devlin />,
     },
     {
+      pubId: "dimassimo_weiss",
       id: "awake_ryland",
       order: 6.2,
       title: "Combatting Erasure",

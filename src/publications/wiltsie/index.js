@@ -5,12 +5,14 @@ import Gallery from "./gallery";
 import MitchellWiltsie from "./mitchell_wiltsie";
 
 const publication = {
+  pubId: "wiltsie",
   id: "wiltsie",
   author: "Wiltsie",
   authorFull: "Tina Wiltsie",
   name: "Pots on Pots",
   articles: [
     {
+      pubId: "wiltsie",
       id: "foreword",
       order: 1,
       title: "Foreword",
@@ -29,6 +31,7 @@ const publication = {
       component: <Foreword />,
     },
     {
+      pubId: "wiltsie",
       id: "mitchell_wiltsie",
       order: 2,
       title:
@@ -49,6 +52,7 @@ const publication = {
       component: <MitchellWiltsie />,
     },
     {
+      pubId: "wiltsie",
       id: "gallery",
       order: 3,
       title: "Enduring Form: Objects Depicting Ceramics across Time",
@@ -69,6 +73,7 @@ const publication = {
       component: <Gallery />,
     },
     {
+      pubId: "wiltsie",
       id: "artistpanel",
       order: 4,
       title:
@@ -92,6 +97,7 @@ const publication = {
       component: <ArtistPanel />,
     },
     {
+      pubId: "wiltsie",
       id: "bibliography",
       order: 5,
       title: "Gathering Raw Materials: A Bibliography of Suggested Readings",
