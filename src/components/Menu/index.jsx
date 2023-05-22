@@ -12,7 +12,7 @@ const Menu = () => {
             key={i}
             style={{ backgroundColor: pub.accent }}
           >
-            <NavLink to={`${pub.id}`}>{pub.author}</NavLink>
+            <NavLink to={`${pub.id}/${pub.firstArticle}`}>{pub.author}</NavLink>
           </li>
         );
       })}

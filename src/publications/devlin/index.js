@@ -166,6 +166,7 @@ const publication = {
     },
   ],
   accent: "#cf2228",
+  firstArticle: "editorsletter",
 };
 
 export default publication;

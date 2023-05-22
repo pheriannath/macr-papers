@@ -5,6 +5,7 @@ const publication = {
   name: "Pots on Pots",
   articles: [],
   accent: "#41ae4a",
+  firstArticle: "",
 };
 
 export default publication;

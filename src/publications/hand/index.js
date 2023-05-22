@@ -152,6 +152,7 @@ const publication = {
     },
   ],
   accent: "#0baeef",
+  firstArticle: "foreword",
 };
 
 export default publication;

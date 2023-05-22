@@ -653,82 +653,84 @@ const LeeAndHand = () => {
 
       <hr />
 
-      <cite>
-        <sup id="annotation-en0">EN0</sup> Jennifer Hand, “Multilingualism,”{" "}
-        <em>Glass Quarterly</em>, no. 168 (Fall 2022), New York: UrbanGlass,
-        24–31.
-      </cite>
-      <cite>
-        <sup id="annotation-en1">EN1</sup> Helen Lee, interview with the author,
-        April 7, 2022.
-      </cite>
-      <cite>
-        <sup id="annotation-en2">EN2</sup> Helen Lee,{" "}
-        <em>
-          My Grandmother Watched Wheel of Fortune Every Day For The Last 20
-          Years of Her Life Not Knowing a Lick of English
-        </em>
-        , Pink Noise, accessed April 6, 2022,
-        <a href="https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/">
-          https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/
-        </a>
-      </cite>
-      <cite>
-        <sup id="annotation-en3">EN3</sup> Helen Lee, interview with the author,
-        July 8, 2022.
-      </cite>
-      <cite>
-        <sup id="annotation-en4">EN4</sup> Helen Lee, interview with the author,
-        April 7, 2022.
-      </cite>
-      <cite>
-        <sup id="annotation-en5">EN5</sup> Helen Lee, interview with the author,
-        July 8, 2022.
-      </cite>
-      <cite>
-        <sup id="annotation-en6">EN6</sup> Related Tactics, Instagram post,
-        March 4, 2022,{" "}
-        <a href="https://www.instagram.com/p/CarG611ONSs/">
-          https://www.instagram.com/p/CarG611ONSs/
-        </a>
-        .
-      </cite>
-      <cite>
-        <sup id="annotation-en7">EN7</sup> Helen Lee, interview with the author,
-        July 8, 2022.
-      </cite>
-      <cite>
-        <sup id="annotation-en8">EN8</sup> Ibid.
-      </cite>
-      <cite>
-        <sup id="annotation-en9">EN9</sup> Ibid.
-      </cite>
-      <cite>
-        <sup id="annotation-en10">EN10</sup> Helen Lee, <em>Infinitive</em>.
-        Pink Noise, accessed April 6, 2022,
-        <a href="https://pink-noise.org/portfolio/infinitive">
-          https://pink-noise.org/portfolio/infinitive
-        </a>
-        .
-      </cite>
-      <cite>
-        <sup id="annotation-en11">EN11</sup> Helen Lee, “Glass/Cash Survey,”
-        <em>New Glass Review</em> (Corning, NY: Corning Museum of Glass, 2017),
-        97.
-      </cite>
-      <cite>
-        <sup id="annotation-en12">EN12</sup> Helen Lee, interview with the
-        author, July 8, 2022.
-      </cite>
-      <cite>
-        <sup id="annotation-en13">EN13</sup> Ibid.
-      </cite>
-      <cite>
-        <sup id="annotation-en14">EN14</sup> Ibid.
-      </cite>
-      <cite>
-        <sup id="annotation-en15">EN15</sup> Ibid.
-      </cite>
+      <div className="long-annotations">
+        <cite>
+          <sup id="annotation-en0">EN0</sup> Jennifer Hand, “Multilingualism,”{" "}
+          <em>Glass Quarterly</em>, no. 168 (Fall 2022), New York: UrbanGlass,
+          24–31.
+        </cite>
+        <cite>
+          <sup id="annotation-en1">EN1</sup> Helen Lee, interview with the
+          author, April 7, 2022.
+        </cite>
+        <cite>
+          <sup id="annotation-en2">EN2</sup> Helen Lee,{" "}
+          <em>
+            My Grandmother Watched Wheel of Fortune Every Day For The Last 20
+            Years of Her Life Not Knowing a Lick of English
+          </em>
+          , Pink Noise, accessed April 6, 2022,{" "}
+          <a href="https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/">
+            https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/
+          </a>
+        </cite>
+        <cite>
+          <sup id="annotation-en3">EN3</sup> Helen Lee, interview with the
+          author, July 8, 2022.
+        </cite>
+        <cite>
+          <sup id="annotation-en4">EN4</sup> Helen Lee, interview with the
+          author, April 7, 2022.
+        </cite>
+        <cite>
+          <sup id="annotation-en5">EN5</sup> Helen Lee, interview with the
+          author, July 8, 2022.
+        </cite>
+        <cite>
+          <sup id="annotation-en6">EN6</sup> Related Tactics, Instagram post,
+          March 4, 2022,{" "}
+          <a href="https://www.instagram.com/p/CarG611ONSs/">
+            https://www.instagram.com/p/CarG611ONSs/
+          </a>
+          .
+        </cite>
+        <cite>
+          <sup id="annotation-en7">EN7</sup> Helen Lee, interview with the
+          author, July 8, 2022.
+        </cite>
+        <cite>
+          <sup id="annotation-en8">EN8</sup> Ibid.
+        </cite>
+        <cite>
+          <sup id="annotation-en9">EN9</sup> Ibid.
+        </cite>
+        <cite>
+          <sup id="annotation-en10">EN10</sup> Helen Lee, <em>Infinitive</em>.
+          Pink Noise, accessed April 6, 2022,{" "}
+          <a href="https://pink-noise.org/portfolio/infinitive">
+            https://pink-noise.org/portfolio/infinitive
+          </a>
+          .
+        </cite>
+        <cite>
+          <sup id="annotation-en11">EN11</sup> Helen Lee, “Glass/Cash Survey,”
+          <em>New Glass Review</em> (Corning, NY: Corning Museum of Glass,
+          2017), 97.
+        </cite>
+        <cite>
+          <sup id="annotation-en12">EN12</sup> Helen Lee, interview with the
+          author, July 8, 2022.
+        </cite>
+        <cite>
+          <sup id="annotation-en13">EN13</sup> Ibid.
+        </cite>
+        <cite>
+          <sup id="annotation-en14">EN14</sup> Ibid.
+        </cite>
+        <cite>
+          <sup id="annotation-en15">EN15</sup> Ibid.
+        </cite>
+      </div>
     </div>
   );
 };

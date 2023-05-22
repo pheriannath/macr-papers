@@ -5,6 +5,7 @@ const publication = {
   name: "This is not a Retreat",
   articles: [],
   accent: "#6d2f92",
+  firstArticle: "",
 };
 
 export default publication;

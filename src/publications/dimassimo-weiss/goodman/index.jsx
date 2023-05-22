@@ -191,7 +191,7 @@ const Goodman = () => {
         </li>
         <li>
           Federal Writers’ Project: Slave Narrative Project, Vol. 11, North
-          Carolina, Part 1. Washington, 1936. 169.
+          Carolina, Part 1. Washington, 1936. 169.{" "}
           <a href="https://www.loc.gov/item/mesn111/">
             https://www.loc.gov/item/mesn111/
           </a>
@@ -210,7 +210,7 @@ const Goodman = () => {
       <cite>
         <sup id="annotation-1">1.</sup> Mellanee Goodman, “In the Fray: Black
         Women and Craft, 1850–1910,” master’s practicum, Critical Craft Studies
-        Program, Warren Wilson College, 2021,
+        Program, Warren Wilson College, 2021,{" "}
         <a href="https://repository.warren-wilson.edu/handle/20.500.12667/53">
           https://repository.warren-wilson.edu/handle/20.500.12667/53
         </a>
