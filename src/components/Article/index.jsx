@@ -3,7 +3,15 @@ import { useParams } from "react-router";
 import Download from "../Download";
 import { PUBLICATIONS } from "../../publications";
 
-const ArticleHeader = ({ author, order, title, tags, citation, url }) => {
+const ArticleHeader = ({
+  author,
+  order,
+  title,
+  tags,
+  citation,
+  url,
+  downloadUrl,
+}) => {
   return (
     <header>
       <h4 className="author">
@@ -15,9 +23,11 @@ const ArticleHeader = ({ author, order, title, tags, citation, url }) => {
       <h2 className="title">{title}</h2>
       <ArticleTags tags={tags} />
       <ArticleCitation citation={citation} url={url} />
-      <div className="download-row">
-        <Download />
-      </div>
+      {downloadUrl && (
+        <div className="download-row">
+          <Download />
+        </div>
+      )}
     </header>
   );
 };
@@ -57,6 +67,7 @@ const Article = () => {
         tags={article?.tags}
         url={article?.url}
         citation={article?.citation}
+        downloadUrl={article?.downloadUrl}
       />
       {article?.component}
     </article>

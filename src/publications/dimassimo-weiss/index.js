@@ -12,6 +12,7 @@ import Materials from "./materials";
 import PerronFeller from "./perron-feller";
 import Making from "./making";
 import Devlin from "./devlin";
+import AwakeRyland from "./awake_ryland";
 
 const publication = {
   id: "dimassimo_weiss",
@@ -308,13 +309,25 @@ const publication = {
     {
       id: "awake_ryland",
       order: 6.2,
-      title: "",
-      author: "",
-      authorShort: "",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      title: "Combatting Erasure",
+      author: "Robell Awake and Charlie Ryland",
+      authorShort: "Awake & Ryland",
+      tags: [
+        "new writing (contributor)",
+        "visual essay",
+        "black craftspeople",
+        "black history",
+        "chairs",
+        "craft practices",
+        "craft studies",
+        "erasure",
+        "material knowledge",
+        "skill acquisition",
+        "woodworking",
+      ],
+      citation: `Awake, Robell and Charlie Ryland. “Combatting Erasure,” Reclaiming the Center: Making Way for Black Craft, edited by Jill DiMassimo and Joanna Weiss. The MACR Papers, Swannanoa, NC: the MA in Critical Craft Studies, Warren Wilson College, 2023. Copyright remains with the author. ISBN 978-1-7351592-4-9  `,
+      url: "https://www.theMACRPapers.com/dimassimo_weiss/awake_ryland",
+      component: <AwakeRyland />,
     },
   ],
   accent: "#ec008c",
