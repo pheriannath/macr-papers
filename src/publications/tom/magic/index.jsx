@@ -18,7 +18,17 @@ const Magic = () => {
         </figcaption>
       </figure>
 
-      <p>[VIDEO - WAITING ON YOUTUBE]</p>
+      <p>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/wlsHPJz5Has"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
+      </p>
 
       <h2>Further Readings</h2>
       <ul className="bibliography">
