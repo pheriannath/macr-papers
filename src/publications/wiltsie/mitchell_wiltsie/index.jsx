@@ -566,11 +566,17 @@ const MitchellWiltsie = () => {
         <figcaption>
           An example of Rubin’s Vase, a multistable visual illusion, also known
           as One Vase/Two Faces, originally conceptualized by Edgard Rubin.{" "}
-          <a href="https://commons.wikimedia.org/wiki/File:Cup_or_faces_paradox.svg">
+          <a
+            href="https://commons.wikimedia.org/wiki/File:Cup_or_faces_paradox.svg"
+            target="_blank"
+          >
             https://commons.wikimedia.org/wiki/File:Cup_or_faces_paradox.svg
           </a>{" "}
           Published under{" "}
-          <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">
+          <a
+            href="https://creativecommons.org/licenses/by-sa/3.0/legalcode"
+            target="_blank"
+          >
             Creative Commons Attribution-Share Alike 3.0 Unported license
           </a>
         </figcaption>
@@ -633,7 +639,10 @@ const MitchellWiltsie = () => {
         <figcaption>
           William Hogarth, <em>The Battle of the Pictures</em>, etching and
           engraving, 1745, Metropolitan Museum of Art.{" "}
-          <a href="https://www.metmuseum.org/art/collection/search/397855">
+          <a
+            href="https://www.metmuseum.org/art/collection/search/397855"
+            target="_blank"
+          >
             https://www.metmuseum.org/art/collection/search/397855
           </a>
           . Image made available through The Met Open Access Initiative and
@@ -715,7 +724,10 @@ const MitchellWiltsie = () => {
         <sup id="annotation-2">2.</sup> Meghen Jones, “Tomimoto Kenkichi and the
         Discourse of Modern Japanese Ceramics,” PhD dissertation, Boston
         University, 2014.{" "}
-        <a href="https://open.bu.edu/ds2/stream/?#/documents/382235/page/456">
+        <a
+          href="https://open.bu.edu/ds2/stream/?#/documents/382235/page/456"
+          target="_blank"
+        >
           https://open.bu.edu/ds2/stream/?#/documents/382235/page/456
         </a>
         .
@@ -745,7 +757,10 @@ const MitchellWiltsie = () => {
         the cartoon <em>The Spiral</em>, from Steinberg’s <em>New World</em>{" "}
         series, published in the <em>New Yorker</em> in 1964. Similar drawings
         by Steinberg can be found at the Saul Steinberg Foundation,{" "}
-        <a href="https://saulsteinbergfoundation.org/search-artwork/?subject=art-making">
+        <a
+          href="https://saulsteinbergfoundation.org/search-artwork/?subject=art-making"
+          target="_blank"
+        >
           https://saulsteinbergfoundation.org/search-artwork/?subject=art-making
         </a>
         .
@@ -799,7 +814,10 @@ const MitchellWiltsie = () => {
       <cite>
         <sup id="annotation-14">14.</sup> M.C. Escher, <em>Drawing Hands</em>,
         lithograph, 1948. National Gallery of Art, Washington, DC,{" "}
-        <a href="https://www.nga.gov/collection/art-object-page.54237.html">
+        <a
+          href="https://www.nga.gov/collection/art-object-page.54237.html"
+          target="_blank"
+        >
           https://www.nga.gov/collection/art-object-page.54237.html
         </a>
         .{" "}
@@ -812,7 +830,7 @@ const MitchellWiltsie = () => {
           [Ceci N’est Pas Une Pipe])
         </em>
         , painting, 1929, Los Angeles County Museum of Art,{" "}
-        <a href="https://collections.lacma.org/node/239578">
+        <a href="https://collections.lacma.org/node/239578" target="_blank">
           https://collections.lacma.org/node/239578
         </a>
         .{" "}
@@ -831,7 +849,7 @@ const MitchellWiltsie = () => {
         <em>Epoch 2020: Relevance of Gandhi in Present Tense</em>, presented by
         Indira Gandhi National Centre for the Arts, New Delhi. See Shelly Jyoti,{" "}
         <em>Prof W J T Mitchell</em>, October 29, 2021.{" "}
-        <a href="https://www.youtube.com/watch?v=QfxjTD_RC1w">
+        <a href="https://www.youtube.com/watch?v=QfxjTD_RC1w" target="_blank">
           https://www.youtube.com/watch?v=QfxjTD_RC1w
         </a>
         .

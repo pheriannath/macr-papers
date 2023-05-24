@@ -28,7 +28,10 @@ const Grave = () => {
           Drake, Jarrett M. “‘Graveyards of Exclusion:’ Archives, Prisons, and
           the Bounds of Belonging.” <em>Sustainable Futures</em> (blog), March
           27, 2019.{" "}
-          <a href="https://medium.com/community-archives/graveyards-of-exclusion-archives-prisons-and-the-bounds-of-belonging-c40c85ff1663.">
+          <a
+            href="https://medium.com/community-archives/graveyards-of-exclusion-archives-prisons-and-the-bounds-of-belonging-c40c85ff1663"
+            target="_blank"
+          >
             https://medium.com/community-archives/graveyards-of-exclusion-archives-prisons-and-the-bounds-of-belonging-c40c85ff1663.
           </a>
         </li>

@@ -42,7 +42,7 @@ const Liminal = () => {
       <ul className="bibliography">
         <li>
           Singh, Alex. “The Liminist.” Are.na. Accessed September 12, 2022.{" "}
-          <a href="https://www.are.na/liminism/liminism">
+          <a href="https://www.are.na/liminism/liminism" target="_blank">
             https://www.are.na/liminism/liminism
           </a>
           .

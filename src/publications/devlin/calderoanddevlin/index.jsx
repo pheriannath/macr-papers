@@ -156,7 +156,10 @@ const CalderoAndDevlin = () => {
           is at work iterating on this design to make the rig usable in their
           project of making of chairs for a wider range of bodies. Photograph by
           Alexis Caldero,{" "}
-          <a href="https://www.alexiscaldero.com/">AlexisCaldero.com</a>.
+          <a href="https://www.alexiscaldero.com/" target="_blank">
+            AlexisCaldero.com
+          </a>
+          .
         </figcaption>
       </figure>
       <p className="question">
@@ -328,7 +331,10 @@ const CalderoAndDevlin = () => {
         <figcaption>
           Left: Carving a seat pan. Right: Furniture drawings. By Alexis Rosa
           Caldero. Images from{" "}
-          <a href="https://www.alexiscaldero.com/">AlexisCaldero.com</a>.
+          <a href="https://www.alexiscaldero.com/" target="_blank">
+            AlexisCaldero.com
+          </a>
+          .
         </figcaption>
       </figure>
       <p className="question">
@@ -439,7 +445,7 @@ const CalderoAndDevlin = () => {
         which produces furniture and peace shrines, has been lead by Mira
         Nakashima, daughter of founder, legendary woodworker, George Nakashima,
         since 1990.{" "}
-        <a href="http://nakashimawoodworkers.com">
+        <a href="http://nakashimawoodworkers.com" target="_blank">
           http://nakashimawoodworkers.com
         </a>
       </cite>
@@ -449,7 +455,10 @@ const CalderoAndDevlin = () => {
         is interested in finding ways to make shapes that provide support for
         other human activities. “Ergonomics and Musculoskeletal Disorders |
         NIOSH | CDC,” October 27, 2021,{" "}
-        <a href="https://www.cdc.gov/niosh/topics/ergonomics/default.html">
+        <a
+          href="https://www.cdc.gov/niosh/topics/ergonomics/default.html"
+          target="_blank"
+        >
           https://www.cdc.gov/niosh/topics/ergonomics/default.html
         </a>
         .

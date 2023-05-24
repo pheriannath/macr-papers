@@ -20,7 +20,10 @@ const Hall = () => {
         we erect around our identities, the futility of our attempts to dissect
         them, and the vital necessity of reaching across those self-imposed
         boundaries. For further exploration on layers of identities, see{" "}
-        <a href="https://media.oregonstate.edu/media/t/0_wkv89qm9">
+        <a
+          href="https://media.oregonstate.edu/media/t/0_wkv89qm9"
+          target="_blank"
+        >
           Gloria Anzaldua’s 2004 lecture at Oregon State University
         </a>
         .

@@ -11,18 +11,28 @@ const Adamson = () => {
         <li>
           Adamson, Glenn. “Material Intelligence.” <em>Aeon</em> (November 28,
           2018).{" "}
-          <a href="https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world">
+          <a
+            href="https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world"
+            target="_blank"
+          >
             https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world
           </a>
         </li>
       </ul>
       <p>
         This Essay was originally published as{" "}
-        <a href="https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world">
+        <a
+          href="https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world"
+          target="_blank"
+        >
           Material intelligence
         </a>{" "}
-        on Aeon (<a href="https://aeon.co/">Aeon.co</a>). We reproduce it here
-        with their kind permission, without any editing changes.
+        on Aeon (
+        <a href="https://aeon.co/" target="_blank">
+          Aeon.co
+        </a>
+        ). We reproduce it here with their kind permission, without any editing
+        changes.
       </p>
       <p>*</p>
       <h2>Material Intelligence</h2>
@@ -130,7 +140,10 @@ const Adamson = () => {
         will Mary be when she is twice as old as her brother?’ (That’s right:
         24.) In his bestseller <em>Emotional Intelligence</em> (1995), Daniel
         Goleman popularised the{" "}
-        <a href="http://journals.sagepub.com/doi/abs/10.2190/DUGG-P24E-52WK-6CDG">
+        <a
+          href="http://journals.sagepub.com/doi/abs/10.2190/DUGG-P24E-52WK-6CDG"
+          target="_blank"
+        >
           idea
         </a>{" "}
         he borrowed from the psychologists John Mayer and Peter Salovey.

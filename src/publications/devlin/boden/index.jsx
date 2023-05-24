@@ -12,7 +12,10 @@ const Boden = () => {
           Boden, Margaret A.. “Crafts, Perception, and the Possibilities of the
           Body.” In <em>The British Journal of Aesthetics</em>. 40, no. 3
           (2000): 289–301.{" "}
-          <a href="https://doi.org/10.1093/bjaesthetics/40.3.289">
+          <a
+            href="https://doi.org/10.1093/bjaesthetics/40.3.289"
+            target="_blank"
+          >
             https://doi.org/10.1093/bjaesthetics/40.3.289
           </a>
         </li>

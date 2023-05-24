@@ -46,7 +46,10 @@ const Gallery = () => {
         <li>
           <em>
             The Critical Craft Forum community (
-            <a href="https://www.facebook.com/groups/310882667610">
+            <a
+              href="https://www.facebook.com/groups/310882667610"
+              target="_blank"
+            >
               https://www.facebook.com/groups/310882667610
             </a>
             )
@@ -55,9 +58,14 @@ const Gallery = () => {
         <li>
           <em>
             Ayumi Horie’s “Pots in Action” Instagram project (
-            <a href="https://www.instagram.com/potsinaction/">@potsinaction</a>
+            <a href="https://www.instagram.com/potsinaction/" target="_blank">
+              @potsinaction
+            </a>
             ), which had a week of “Pots on Pots” (see:{" "}
-            <a href="https://www.instagram.com/explore/tags/piapotsonpots/">
+            <a
+              href="https://www.instagram.com/explore/tags/piapotsonpots/"
+              target="_blank"
+            >
               #piapotsonpots
             </a>
             )
@@ -66,7 +74,10 @@ const Gallery = () => {
         <li>
           <em>
             Kristen Kieffer’s “Non-Clay Pots” Instagram project (
-            <a href="https://www.instagram.com/nonclaypots/">@nonclaypots</a>)
+            <a href="https://www.instagram.com/nonclaypots/" target="_blank">
+              @nonclaypots
+            </a>
+            )
           </em>
         </li>
       </ul>
@@ -90,7 +101,10 @@ const Gallery = () => {
               <br />
               Rijksmuseum, Amsterdam
               <br />
-              <a href="http://hdl.handle.net/10934/RM0001.COLLECT.233827">
+              <a
+                href="http://hdl.handle.net/10934/RM0001.COLLECT.233827"
+                target="_blank"
+              >
                 http://hdl.handle.net/10934/RM0001.COLLECT.233827
               </a>
             </figcaption>
@@ -125,7 +139,10 @@ const Gallery = () => {
               Gardiner Museum, Toronto. Gift of the Ostrom Family, G22.2.1
               <br />
               Image courtesy of the Gardiner Museum, used with permission{" "}
-              <a href="https://emuseum.gardinermuseum.com/objects/9377/">
+              <a
+                href="https://emuseum.gardinermuseum.com/objects/9377/"
+                target="_blank"
+              >
                 https://emuseum.gardinermuseum.com/objects/9377/
               </a>
             </figcaption>
@@ -163,7 +180,10 @@ const Gallery = () => {
               <br />
               Height, 1.625”; diameter, 6” <br />
               Metropolitan Museum of Art, New York{" "}
-              <a href="https://www.metmuseum.org/art/collection/search/50342">
+              <a
+                href="https://www.metmuseum.org/art/collection/search/50342"
+                target="_blank"
+              >
                 https://www.metmuseum.org/art/collection/search/50342
               </a>
             </figcaption>
@@ -196,7 +216,10 @@ const Gallery = () => {
               18.625” x 5.75” x 5.75”; diameter of rim, 4.5”
               <br />
               Metropolitan Museum of Art, New York{" "}
-              <a href="https://www.metmuseum.org/art/collection/search/48605">
+              <a
+                href="https://www.metmuseum.org/art/collection/search/48605"
+                target="_blank"
+              >
                 https://www.metmuseum.org/art/collection/search/48605
               </a>
             </figcaption>
@@ -259,7 +282,10 @@ const Gallery = () => {
               10.9” x 4.6” x 4.4”; diameter of rim, 7”
               <br />
               Rijksmuseum, Amsterdam{" "}
-              <a href="http://hdl.handle.net/10934/RM0001.COLLECT.3498">
+              <a
+                href="http://hdl.handle.net/10934/RM0001.COLLECT.3498"
+                target="_blank"
+              >
                 http://hdl.handle.net/10934/RM0001.COLLECT.3498
               </a>
             </figcaption>
@@ -289,7 +315,10 @@ const Gallery = () => {
               <br />
               Height 3” x diameter 17.5” <br />
               Metropolitan Museum of Art, New York{" "}
-              <a href="https://www.metmuseum.org/art/collection/search/46093">
+              <a
+                href="https://www.metmuseum.org/art/collection/search/46093"
+                target="_blank"
+              >
                 https://www.metmuseum.org/art/collection/search/46093
               </a>
             </figcaption>
@@ -319,7 +348,10 @@ const Gallery = () => {
               Fritware, with underglaze decoration
               <br /> Height 2.25” x diameter 12”
               <br /> Walters Art Museum, Baltimore{" "}
-              <a href="https://art.thewalters.org/detail/11790/iznik-rhodian-fritware-plate-with-depiction-of-a-ewer/">
+              <a
+                href="https://art.thewalters.org/detail/11790/iznik-rhodian-fritware-plate-with-depiction-of-a-ewer/"
+                target="_blank"
+              >
                 https://art.thewalters.org/detail/11790/iznik-rhodian-fritware-plate-with-depiction-of-a-ewer/
               </a>
             </figcaption>
@@ -408,7 +440,10 @@ const Gallery = () => {
               <br />
               Height, 14.75” <br />
               Metropolitan Museum of Art, New York
-              <a href="https://www.metmuseum.org/art/collection/search/247244">
+              <a
+                href="https://www.metmuseum.org/art/collection/search/247244"
+                target="_blank"
+              >
                 https://www.metmuseum.org/art/collection/search/247244
               </a>
             </figcaption>
@@ -499,7 +534,10 @@ const Gallery = () => {
               <br />
               Height, 2.4” <br />
               Metropolitan Museum of Art, New York{" "}
-              <a href="https://www.metmuseum.org/art/collection/search/255631">
+              <a
+                href="https://www.metmuseum.org/art/collection/search/255631"
+                target="_blank"
+              >
                 https://www.metmuseum.org/art/collection/search/255631
               </a>
             </figcaption>
@@ -560,7 +598,10 @@ const Gallery = () => {
               Height, 8.6” x diameter 6.5”
               <br />
               Metropolitan Museum of Art, New York{" "}
-              <a href="https://www.metmuseum.org/art/collection/search/308514">
+              <a
+                href="https://www.metmuseum.org/art/collection/search/308514"
+                target="_blank"
+              >
                 https://www.metmuseum.org/art/collection/search/308514
               </a>
             </figcaption>
@@ -621,7 +662,10 @@ const Gallery = () => {
               Height 9.5” x diameter 7.5”
               <br />
               Los Angeles County Museum of Art, Los Angeles{" "}
-              <a href="https://collections.lacma.org/node/2259194">
+              <a
+                href="https://collections.lacma.org/node/2259194"
+                target="_blank"
+              >
                 https://collections.lacma.org/node/2259194
               </a>
             </figcaption>
@@ -641,27 +685,27 @@ const Gallery = () => {
 
       <ul className="thanks">
         <li>
-          <a href="https://www.felicityaylieff.com/">
+          <a href="https://www.felicityaylieff.com/" target="_blank">
             https://www.felicityaylieff.com/
           </a>
         </li>
         <li>
-          <a href="https://www.gabrielleschaffnerceramics.com/">
+          <a href="https://www.gabrielleschaffnerceramics.com/" target="_blank">
             https://www.gabrielleschaffnerceramics.com/
           </a>
         </li>
         <li>
-          <a href="https://www.juliawalther.com/">
+          <a href="https://www.juliawalther.com/" target="_blank">
             https://www.juliawalther.com/
           </a>
         </li>
         <li>
-          <a href="http://www.brookemillecchia.com/">
+          <a href="http://www.brookemillecchia.com/" target="_blank">
             http://www.brookemillecchia.com/
           </a>
         </li>
         <li>
-          <a href="https://www.kateschroederceramics.com/">
+          <a href="https://www.kateschroederceramics.com/" target="_blank">
             https://www.kateschroederceramics.com/
           </a>
         </li>

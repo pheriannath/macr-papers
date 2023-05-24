@@ -53,7 +53,7 @@ const Ghost = () => {
         <li>
           Fisher, Mark. “What Is Hauntology?,” Film Quarterly 66, no. 1
           (September 1, 2012): 16–24.{" "}
-          <a href="https://doi.org/10.1525/fq.2012.66.1.16">
+          <a href="https://doi.org/10.1525/fq.2012.66.1.16" target="_blank">
             https://doi.org/10.1525/fq.2012.66.1.16
           </a>
           .
@@ -61,7 +61,10 @@ const Ghost = () => {
         <li>
           Lossin, R. H. “William Morris, Romantic Revolutionary.” New York
           Review of Books, July 31, 2021. Accessed February 6, 2023.{" "}
-          <a href="https://www.nybooks.com/online/2021/07/31/william-morris-romantic-revolutionary/">
+          <a
+            href="https://www.nybooks.com/online/2021/07/31/william-morris-romantic-revolutionary/"
+            target="_blank"
+          >
             https://www.nybooks.com/online/2021/07/31/william-morris-romantic-revolutionary/
           </a>
           .
@@ -69,7 +72,10 @@ const Ghost = () => {
         <li>
           Porte, Rebecca Ariel. “Paradise: On-Earthly Dilemmas.” Post45 (blog),
           May 26, 2021.{" "}
-          <a href="https://post45.org/2021/05/paradise-on-earthly-dilemmas/">
+          <a
+            href="https://post45.org/2021/05/paradise-on-earthly-dilemmas/"
+            target="_blank"
+          >
             https://post45.org/2021/05/paradise-on-earthly-dilemmas/
           </a>
           .

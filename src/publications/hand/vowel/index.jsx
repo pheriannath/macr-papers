@@ -21,7 +21,10 @@ const Vowel = () => {
         <li>
           Vowel, Chelsea. “Writing Toward a Definition of Indigenous Futurism.”
           <em>Lit Hub</em> (June 20, 2022).
-          <a href="https://lithub.com/writing-toward-a-definition-of-indigenous-futurism/">
+          <a
+            href="https://lithub.com/writing-toward-a-definition-of-indigenous-futurism/"
+            target="_blank"
+          >
             https://lithub.com/writing-toward-a-definition-of-indigenous-futurism/
           </a>
           .

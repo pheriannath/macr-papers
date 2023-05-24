@@ -213,7 +213,10 @@ const Hand = () => {
           Josiah Wedgwood and Sons, <em>Antislavery Medallion</em>, after 1787.
           Medallion, ceramic, metal. Image courtesy of National Museum of
           American History, Smithsonian Institution.{" "}
-          <a href="https://americanhistory.si.edu/collections/search/object/nmah_596365">
+          <a
+            href="https://americanhistory.si.edu/collections/search/object/nmah_596365"
+            target="_blank"
+          >
             https://americanhistory.si.edu/collections/search/object/nmah_596365
           </a>
           .
@@ -425,7 +428,10 @@ const Hand = () => {
         <li>
           “A Suit by Edmonia Lewis.” <em>New York Times</em>, Jan 26, 1879, 6.
           Accessed October 2, 2021.{" "}
-          <a href="http://timesmachine.nytimes.com/timesmachine/1879/01/26/80744263.html?pageNumber=2">
+          <a
+            href="http://timesmachine.nytimes.com/timesmachine/1879/01/26/80744263.html?pageNumber=2"
+            target="_blank"
+          >
             http://timesmachine.nytimes.com/timesmachine/1879/01/26/80744263.html?pageNumber=2
           </a>
           .
@@ -474,7 +480,10 @@ const Hand = () => {
         <li>
           Lewis, Edmonia. Letter to Maria Weston Chapman. Rome, February 5th
           1867.{" "}
-          <a href="https://www.digitalcommonwealth.org/search/commonwealth:dv144240v">
+          <a
+            href="https://www.digitalcommonwealth.org/search/commonwealth:dv144240v"
+            target="_blank"
+          >
             https://www.digitalcommonwealth.org/search/commonwealth:dv144240v
           </a>
           .
@@ -484,7 +493,10 @@ const Hand = () => {
           “Seeking Equality Abroad; Why Miss Edmonia Lewis, the Colored
           Sculptor, Returns to Rome—Her Early Life and Struggles.”{" "}
           <em>New York Times</em>, December 29, 1878, 5.{" "}
-          <a href="https://www.nytimes.com/1878/12/29/archives/seeking-equality-abroad-why-miss-edmonia-lewis-the-colored-sculptor.html">
+          <a
+            href="https://www.nytimes.com/1878/12/29/archives/seeking-equality-abroad-why-miss-edmonia-lewis-the-colored-sculptor.html"
+            target="_blank"
+          >
             https://www.nytimes.com/1878/12/29/archives/seeking-equality-abroad-why-miss-edmonia-lewis-the-colored-sculptor.html
           </a>
           .
@@ -507,7 +519,10 @@ const Hand = () => {
         <li>
           “Grand and Beautiful Native Basketry Exhibit Reflects Perelmans’
           Generosity,” <em>Eiteljorg</em> (blog), February 22, 2018.{" "}
-          <a href="https://eiteljorg.org/grand-and-beautiful-native-basketry-exhibit-reflects-perelmans-generosity-2/">
+          <a
+            href="https://eiteljorg.org/grand-and-beautiful-native-basketry-exhibit-reflects-perelmans-generosity-2/"
+            target="_blank"
+          >
             https://eiteljorg.org/grand-and-beautiful-native-basketry-exhibit-reflects-perelmans-generosity-2/
           </a>
           .

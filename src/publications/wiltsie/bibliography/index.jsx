@@ -94,7 +94,10 @@ const Bibliography = () => {
           <p>
             Meghen Jones. “Tomimoto Kenkichi and the Discourse of Modern
             Japanese Ceramics.” PhD Dissertation, Boston University, 2014.{" "}
-            <a href="https://open.bu.edu/ds2/stream/?#/documents/382235/page/456">
+            <a
+              href="https://open.bu.edu/ds2/stream/?#/documents/382235/page/456"
+              target="_blank"
+            >
               https://open.bu.edu/ds2/stream/?#/documents/382235/page/456
             </a>
             .<br />

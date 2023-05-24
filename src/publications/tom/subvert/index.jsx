@@ -47,7 +47,10 @@ const Subvert = () => {
       <ul className="bibliography">
         <li>
           Cambridge Dictionary. “Subvert,” February 15, 2023.{" "}
-          <a href="https://dictionary.cambridge.org/us/dictionary/english/subvert">
+          <a
+            href="https://dictionary.cambridge.org/us/dictionary/english/subvert"
+            target="_blank"
+          >
             https://dictionary.cambridge.org/us/dictionary/english/subvert
           </a>
           .

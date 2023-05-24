@@ -29,7 +29,7 @@ const Josselson = () => {
           Reflections of a Narrative Researcher.” In{" "}
           <em>Ethics and Process in the Narrative Study of Lives</em>, edited by
           Ruthellen Josselson, 60–71. New York: Sage Publications, 1996.{" "}
-          <a href="https://doi.org/10.4135/9781483345451.n5">
+          <a href="https://doi.org/10.4135/9781483345451.n5" target="_blank">
             https://doi.org/10.4135/9781483345451.n5
           </a>
         </li>

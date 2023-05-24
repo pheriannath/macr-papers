@@ -5,11 +5,17 @@ const Renewal = () => {
         <img src={process.env.PUBLIC_URL + "/img/tom/RT_27_renewal.jpg"} />
         <figcaption>
           “Ise, old and new.” Photo: Bernhard Scheid, retrieved from
-          <a href="https://www.flickr.com/photos/bluntschli/10590068556/">
+          <a
+            href="https://www.flickr.com/photos/bluntschli/10590068556/"
+            target="_blank"
+          >
             https://www.flickr.com/photos/bluntschli/10590068556/
           </a>
           , used under CC BY-NC 2.0 (
-          <a href="https://creativecommons.org/licenses/by-nc/2.0/">
+          <a
+            href="https://creativecommons.org/licenses/by-nc/2.0/"
+            target="_blank"
+          >
             https://creativecommons.org/licenses/by-nc/2.0/
           </a>
           )
@@ -56,7 +62,10 @@ const Renewal = () => {
         <li>
           Potter, Brian. “Ise Jingu and the Pyramid of Enabling Technologies.”
           The Prepared, June 30, 2021.{" "}
-          <a href="https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies">
+          <a
+            href="https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies"
+            target="_blank"
+          >
             https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies
           </a>
           .

@@ -41,7 +41,10 @@ const Taylor = () => {
         <li>
           Taylor, Keeanga-Yamahtta. “Until Black Women Are Free, None of Us Will
           Be Free.” <em>The New Yorker</em>, July 20, 2020.{" "}
-          <a href="https://www.newyorker.com/news/our-columnists/until-black-women-are-free-none-of-us-will-be-free">
+          <a
+            href="https://www.newyorker.com/news/our-columnists/until-black-women-are-free-none-of-us-will-be-free"
+            target="_blank"
+          >
             https://www.newyorker.com/news/our-columnists/until-black-women-are-free-none-of-us-will-be-free
           </a>
           .
@@ -65,7 +68,7 @@ const Taylor = () => {
       <cite>
         <sup id="annotation-1">1.</sup> The Combahee River Collective Statement,
         United States, 2015, web archive,{" "}
-        <a href="https://www.loc.gov/item/lcwaN0028151/">
+        <a href="https://www.loc.gov/item/lcwaN0028151/" target="_blank">
           https://www.loc.gov/item/lcwaN0028151/
         </a>
         .

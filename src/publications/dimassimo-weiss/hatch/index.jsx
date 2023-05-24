@@ -115,7 +115,10 @@ const Hatch = () => {
       <cite>
         <sup id="annotation-1">1.</sup> Mike Hatch, “Crafted Roots: The Video,”
         YouTube video, October 10, 2020, 39:46.{" "}
-        <a href="https://youtu.be/hvkcpLd8HkY">https://youtu.be/hvkcpLd8HkY</a>.
+        <a href="https://youtu.be/hvkcpLd8HkY" target="_blank">
+          https://youtu.be/hvkcpLd8HkY
+        </a>
+        .
       </cite>
       <cite>
         <sup id="annotation-2">2.</sup> Edward J. Cabbell, “Black Invisibility
@@ -126,7 +129,10 @@ const Hatch = () => {
       <cite>
         <sup id="annotation-3">3.</sup> Mike Hatch, “Redacted,” YouTube video,
         April 25, 2022, 19:56.{" "}
-        <a href="https://youtu.be/mRUjJcsG_Q4">https://youtu.be/mRUjJcsG_Q4</a>.
+        <a href="https://youtu.be/mRUjJcsG_Q4" target="_blank">
+          https://youtu.be/mRUjJcsG_Q4
+        </a>
+        .
       </cite>
     </div>
   );

@@ -35,7 +35,7 @@ const Ahmed = () => {
         <li>
           Ahmed, Sara. “A Phenomenology of Whiteness.” <em>Feminist Theory</em>{" "}
           8, no. 2 (2007): 149–168.{" "}
-          <a href="https://doi.org/10.1177/1464700107078139">
+          <a href="https://doi.org/10.1177/1464700107078139" target="_blank">
             https://doi.org/10.1177/1464700107078139
           </a>
           .
@@ -57,7 +57,7 @@ const Ahmed = () => {
       <cite>
         <sup id="annotation-1">1.</sup> “Bio,” on Sarah Ahmed’s website,
         accessed November 3, 2022,{" "}
-        <a href="https://www.saranahmed.com/bio-cv">
+        <a href="https://www.saranahmed.com/bio-cv" target="_blank">
           <em>https://www.saranahmed.com/bio-cv</em>
         </a>
         .
@@ -67,7 +67,10 @@ const Ahmed = () => {
         Appignanesi, ed.,{" "}
         <em>The Real Me: Postmodernism and the Question of Identity</em> (ICA
         Documents 6. London: The Institute of Contemporary Arts, 1987), 46.{" "}
-        <a href="http://site.ufvjm.edu.br/mpich/files/2013/04/HALL-Minimal-Selves.pdf">
+        <a
+          href="http://site.ufvjm.edu.br/mpich/files/2013/04/HALL-Minimal-Selves.pdf"
+          target="_blank"
+        >
           http://site.ufvjm.edu.br/mpich/files/2013/04/HALL-Minimal-Selves.pdf
         </a>
         .

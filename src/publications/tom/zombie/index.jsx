@@ -29,7 +29,10 @@ const Zombie = () => {
         <li>
           McCormack, J. W.. “Actually, Zombies Are Good.” <em>Vice</em> (blog),
           June 20, 2017.
-          <a href="https://www.vice.com/en/article/vbgnpj/actually-zombies-are-good">
+          <a
+            href="https://www.vice.com/en/article/vbgnpj/actually-zombies-are-good"
+            target="_blank"
+          >
             https://www.vice.com/en/article/vbgnpj/actually-zombies-are-good
           </a>
           .

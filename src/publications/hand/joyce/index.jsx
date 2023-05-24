@@ -50,7 +50,10 @@ const Joyce = () => {
         <li>
           Jennifer Hand, “Joyce Scott: Hard Truth in Beauty,” Chrysler Museum of
           Art, October 7, 2020,{" "}
-          <a href="https://chrysler.org/joyce-scott-hard-truth-in-beauty/">
+          <a
+            href="https://chrysler.org/joyce-scott-hard-truth-in-beauty/"
+            target="_blank"
+          >
             https://chrysler.org/joyce-scott-hard-truth-in-beauty/
           </a>
           .

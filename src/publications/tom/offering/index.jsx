@@ -67,7 +67,10 @@ const Offering = () => {
         <li>
           Cheng, Phoebe. “Bidding Fashionable Farewell to the Dead.”{" "}
           <em>China Daily</em>. October 21, 2010, sec. Society.{" "}
-          <a href="https://www.chinadaily.com.cn/china/2010-10/21/content_11437013.htm">
+          <a
+            href="https://www.chinadaily.com.cn/china/2010-10/21/content_11437013.htm"
+            target="_blank"
+          >
             https://www.chinadaily.com.cn/china/2010-10/21/content_11437013.htm
           </a>
           .
@@ -79,7 +82,10 @@ const Offering = () => {
         <figcaption>
           Paper roast pig and poultry, 2016. Photo: Kubla khanD - Own work, CC
           BY-SA 4.0,{" "}
-          <a href="https://commons.wikimedia.org/w/index.php?curid=47751096">
+          <a
+            href="https://commons.wikimedia.org/w/index.php?curid=47751096"
+            target="_blank"
+          >
             https://commons.wikimedia.org/w/index.php?curid=47751096
           </a>
         </figcaption>
@@ -90,7 +96,10 @@ const Offering = () => {
         <figcaption>
           Paper mansion in a Hong Kong shop, 2008. Photo: VictoriaDFong - Own
           work, CC BY-SA 3.0,{" "}
-          <a href="https://commons.wikimedia.org/w/index.php?curid=4581000">
+          <a
+            href="https://commons.wikimedia.org/w/index.php?curid=4581000"
+            target="_blank"
+          >
             https://commons.wikimedia.org/w/index.php?curid=4581000
           </a>
         </figcaption>

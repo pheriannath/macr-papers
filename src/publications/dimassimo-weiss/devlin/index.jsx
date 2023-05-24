@@ -446,7 +446,10 @@ const Devlin = () => {
           Alexander, Jennie, Peter Follansbee, and Robert F. Trent. “Early
           American Shaved Post-and-Rung Chairs.” American Furniture 2008.
           Accessed October 16, 2021,{" "}
-          <a href="http://www.chipstone.org/article.php/581/American-Furniture-2008/Early-American-Shaved-Post-and-Rung-Chairs">
+          <a
+            href="http://www.chipstone.org/article.php/581/American-Furniture-2008/Early-American-Shaved-Post-and-Rung-Chairs"
+            target="_blank"
+          >
             http://www.chipstone.org/article.php/581/American-Furniture-2008/Early-American-Shaved-Post-and-Rung-Chairs
           </a>
           .
@@ -455,7 +458,7 @@ const Devlin = () => {
           Bell, Michael W. “‘First Rate & Fashionable’: Handmade Nineteenth
           Century Furniture at the Tennessee State Museum.”{" "}
           <em>Tennessee Historical Quarterly</em> 62, no. 1 (2003): 5–96.{" "}
-          <a href="http://www.jstor.org/stable/42628520">
+          <a href="http://www.jstor.org/stable/42628520" target="_blank">
             http://www.jstor.org/stable/42628520
           </a>
           .
@@ -463,7 +466,10 @@ const Devlin = () => {
         <li>
           <em>“Coming and Going” African American Photo Exhibit</em> (2015).
           WC-TV, February 23, 2015. Accessed October 4, 2021,{" "}
-          <a href="http://archive.org/details/Coming_and_Going_African-American_Photo_Exhibit_2015">
+          <a
+            href="http://archive.org/details/Coming_and_Going_African-American_Photo_Exhibit_2015"
+            target="_blank"
+          >
             http://archive.org/details/Coming_and_Going_African-American_Photo_Exhibit_2015
           </a>
           .
@@ -472,7 +478,10 @@ const Devlin = () => {
           Federal Register. “Notice of Inventory Completion: Tennessee
           Department of Environment and Conservation, Division of Archaeology,
           Nashville, TN,” August 3, 2010.{" "}
-          <a href="https://www.federalregister.gov/documents/2010/08/03/2010-18991/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of">
+          <a
+            href="https://www.federalregister.gov/documents/2010/08/03/2010-18991/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of"
+            target="_blank"
+          >
             https://www.federalregister.gov/documents/2010/08/03/2010-18991/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of
           </a>
           .
@@ -485,7 +494,7 @@ const Devlin = () => {
             African American History
           </em>{" "}
           (blog), April 29, 2017.{" "}
-          <a href="http://usctwillcotn.blogspot.com/2017/04/">
+          <a href="http://usctwillcotn.blogspot.com/2017/04/" target="_blank">
             http://usctwillcotn.blogspot.com/2017/04/
           </a>
           .
@@ -493,7 +502,10 @@ const Devlin = () => {
         <li>
           Keafer, Tori. “FrankTown Draws Attention to ‘Housing Crisis’ in
           Franklin.” <em>Williamson Herald</em>, April 22, 2021.{" "}
-          <a href="http://www.williamsonherald.com/communities/franktown-draws-attention-to-housing-crisis-in-franklin/article_6ef27c90-a3ab-11eb-abec-4bd38edc1564.html">
+          <a
+            href="http://www.williamsonherald.com/communities/franktown-draws-attention-to-housing-crisis-in-franklin/article_6ef27c90-a3ab-11eb-abec-4bd38edc1564.html"
+            target="_blank"
+          >
             http://www.williamsonherald.com/communities/franktown-draws-attention-to-housing-crisis-in-franklin/article_6ef27c90-a3ab-11eb-abec-4bd38edc1564.html
           </a>
           .
@@ -508,7 +520,7 @@ const Devlin = () => {
           “The Land and Native People | A History of Tennessee Student Edition.”
           Tennessee State Library and Archives Education Outreach Program.
           Accessed November 1, 2021,{" "}
-          <a href="https://tnsoshistory.com/chapter1">
+          <a href="https://tnsoshistory.com/chapter1" target="_blank">
             https://tnsoshistory.com/chapter1
           </a>
           .
@@ -534,7 +546,10 @@ const Devlin = () => {
           Ormsbee, Thomas Hamilton. “Flashback: Slat-Back Chairs in Europe and
           America.” <em>Collectors Weekly</em>, March 20, 2009. Accessed October
           16, 2021,{" "}
-          <a href="https://www.collectorsweekly.com/articles/slat-back-chairs-in-europe-and-america">
+          <a
+            href="https://www.collectorsweekly.com/articles/slat-back-chairs-in-europe-and-america"
+            target="_blank"
+          >
             https://www.collectorsweekly.com/articles/slat-back-chairs-in-europe-and-america
           </a>
           .
@@ -548,7 +563,10 @@ const Devlin = () => {
           Robinson, Carole. “African American Local History in Photos Displayed
           at Library.” <em>Williamson Herald</em>, February 3, 2016. Accessed
           October 17, 2021,{" "}
-          <a href="http://www.williamsonherald.com/features/w_life/african-american-local-history-in-photos-displayed-at-library/article_04368054-cb02-11e5-832d-a3e1608fc75f.html">
+          <a
+            href="http://www.williamsonherald.com/features/w_life/african-american-local-history-in-photos-displayed-at-library/article_04368054-cb02-11e5-832d-a3e1608fc75f.html"
+            target="_blank"
+          >
             http://www.williamsonherald.com/features/w_life/african-american-local-history-in-photos-displayed-at-library/article_04368054-cb02-11e5-832d-a3e1608fc75f.html
           </a>
           .
@@ -589,7 +607,7 @@ const Devlin = () => {
         for $1 in the 70s, whereas in a recent auction a pair sold for $2,400.
         See Rick Warwick in <em>The Highland Woodworker - Episode 29</em>,
         accessed November 1, 2021,{" "}
-        <a href="https://www.youtube.com/watch?v=Qw0BpunBLsQ">
+        <a href="https://www.youtube.com/watch?v=Qw0BpunBLsQ" target="_blank">
           https://www.youtube.com/watch?v=Qw0BpunBLsQ
         </a>
         . There is record of the spelling of Poynor as both Poyner and Poynor. I
@@ -637,7 +655,10 @@ const Devlin = () => {
         <sup id="annotation-6">6.</sup> Creston S. Long, “Southern Routes:
         Family Migration and the Eighteenth-Century Southern Backcountry” (PhD
         diss., College of William & Mary – Arts & Sciences, 2002),{" "}
-        <a href="https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3202&context=etd">
+        <a
+          href="https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3202&context=etd"
+          target="_blank"
+        >
           https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3202&context=etd
         </a>
         .
@@ -691,7 +712,10 @@ const Devlin = () => {
         constantly bought, sold, and transported, and forced to live in places
         not of their choosing.” See “Coming and Going,” African American Photo
         Exhibit (2015), February 23, 2015, accessed October 4, 2021,{" "}
-        <a href="http://archive.org/details/Coming_and_Going_African-American_Photo_Exhibit_2015">
+        <a
+          href="http://archive.org/details/Coming_and_Going_African-American_Photo_Exhibit_2015"
+          target="_blank"
+        >
           http://archive.org/details/Coming_and_Going_African-American_Photo_Exhibit_2015
         </a>
         .
@@ -714,7 +738,10 @@ const Devlin = () => {
         <sup id="annotation-16">16.</sup> Tori Keafer, “FrankTown Draws
         Attention to ‘Housing Crisis’ in Franklin,” <em>Williamson Herald</em>,
         April 22, 2021, accessed October 16, 2021,{" "}
-        <a href="http://www.williamsonherald.com/communities/franktown-draws-attention-to-housing-crisis-in-franklin/article_6ef27c90-a3ab-11eb-abec-4bd38edc1564.html">
+        <a
+          href="http://www.williamsonherald.com/communities/franktown-draws-attention-to-housing-crisis-in-franklin/article_6ef27c90-a3ab-11eb-abec-4bd38edc1564.html"
+          target="_blank"
+        >
           http://www.williamsonherald.com/communities/franktown-draws-attention-to-housing-crisis-in-franklin/article_6ef27c90-a3ab-11eb-abec-4bd38edc1564.html
         </a>
         .
@@ -722,11 +749,17 @@ const Devlin = () => {
       <cite>
         <sup id="annotation-17">17.</sup> Jill Lawrence, “Values, Points of View
         Separate Towns — and Nation,” <em>USA Today</em>, February 18, 2002.{" "}
-        <a href="http://www.usatoday.com/news/nation/2002/02/18/divided-nation.html">
+        <a
+          href="http://www.usatoday.com/news/nation/2002/02/18/divided-nation.html"
+          target="_blank"
+        >
           http://www.usatoday.com/news/nation/2002/02/18/divided-nation.html
         </a>
         ;{" "}
-        <a href="https://www.geocities.ws/queermontclair/QMNewsletter202.html">
+        <a
+          href="https://www.geocities.ws/queermontclair/QMNewsletter202.html"
+          target="_blank"
+        >
           https://www.geocities.ws/queermontclair/QMNewsletter202.html
         </a>
         .
