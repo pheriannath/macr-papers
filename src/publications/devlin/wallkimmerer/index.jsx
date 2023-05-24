@@ -3,17 +3,17 @@ const WallKimmerer = () => {
     <div>
       <p>
         Robin Wall Kimmerer is a biologist and author. In this chapter from the
-        2013 book Braiding Sweetgrass, she describes practicalities of the craft
-        of basket-making as taught by Potawatomi basket-maker John Pigeon, and
-        provides ecological and social context for the practice. Her account
-        draws from a variety of natural-craft and biology lineages, while
-        analyzing them.
+        2013 book <em>Braiding Sweetgrass</em>, she describes practicalities of
+        the craft of basket-making as taught by Potawatomi basket-maker John
+        Pigeon, and provides ecological and social context for the practice. Her
+        account draws from a variety of natural-craft and biology lineages,
+        while analyzing them.
       </p>
       <ul className="bibliography">
         <li>
-          Wall Kimmerer, Robin. “Wisgaak Gokpenagen: A Black Ash Basket.” In
-          <em>Braiding Sweetgrass</em>, 141-155. Minneapolis: Milkweed Editions,
-          2013.{" "}
+          Wall Kimmerer, Robin. “<em>Wisgaak Gokpenagen</em>: A Black Ash
+          Basket.” In <em>Braiding Sweetgrass</em>, 141-155. Minneapolis:
+          Milkweed Editions, 2013.{" "}
         </li>
       </ul>
       <p>

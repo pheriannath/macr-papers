@@ -86,7 +86,7 @@ const EditorsNote = () => {
       </p>
 
       <p>
-        In this reader, <em>Craft Practiced</em>: Writing from Robin Wall
+        In this reader, <em>Craft Practiced</em> Writing from Robin Wall
         Kimmerer, unfolds ways human knowing deeply anchors our bodies to our
         environments. Glenn Adamson considers material intelligence, from a
         distanced perspective. Phoebe Kuo’s ethnography flows from a sensory

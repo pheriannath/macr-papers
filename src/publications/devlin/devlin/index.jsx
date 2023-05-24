@@ -9,9 +9,9 @@ const Devlin = () => {
         materials, and asked them to think of media that do the same kind of
         work as the craft readings. We thought together about how movement and
         stuff, like words, can be about movement and stuff, or can be in some
-        way of it. Sometimes media are about movement and stuff, and sometimes
-        they are about and from movement and stuff. In the following segment
-        from one of these conversations, Trieste—craft practitioner,
+        way <em>of</em> it. Sometimes media are about movement and stuff, and
+        sometimes they are about and from movement and stuff. In the following
+        segment from one of these conversations, Trieste—craft practitioner,
         ex-engineer, sister to me—framed one of our discussions.
       </p>
 
@@ -19,10 +19,10 @@ const Devlin = () => {
 
       <p>
         <em>
-          <strong>Editor's note:</strong>
-        </em>{" "}
-        What follows are Trieste Devlin’s words, in conversation with the
-        author, September 2022. Edited for clarity.
+          <strong>Editor's note:</strong> What follows are Trieste Devlin’s
+          words, in conversation with the author, September 2022. Edited for
+          clarity.
+        </em>
       </p>
       <p>*</p>
       <p>
@@ -50,8 +50,8 @@ const Devlin = () => {
         embodied information. And so, like, how, how could they tell us the
         information that both of us have from the physical experiences? There’s
         a broken line of our understandings in communication, which means that
-        anybody who’s good at natural dying has read all this stuff, and then
-        has figured it out themselves.
+        anybody who’s good at natural dying has read all this stuff,{" "}
+        <em>and then</em> has figured it out themselves.
       </p>
 
       <hr />

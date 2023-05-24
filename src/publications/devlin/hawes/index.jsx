@@ -32,7 +32,7 @@ const Hawes = () => {
         feeling it from all sides with whatever sensory equipment is there at
         the ready. It is not savoring, but discerning. The bowl is still being
         formed and so there is a lot to think through as it sits there, a mute
-        wood shape surrounded by sensing flesh. The spoon-carver may be thinking
+        wood shape surrounded by sensing flesh. The spoon-carver may be thinking{" "}
         <em>a little off here, too thick there, smooth out that bump</em>. And
         then, getting the answer, the spoon carver pops it out of their mouth
         and gets on with the subtractive process of carving.{" "}
@@ -302,7 +302,7 @@ const Hawes = () => {
         through his body. A spoon can extend my bodily space, its volume, in a
         similar way as Merleau-Ponty’s blind man’s walking stick. “... Its point
         has become an area of sensitivity, extending the scope and active radius
-        of touch, and providing a parallel to sight.” Maurice Merelau-Ponty,
+        of touch, and providing a parallel to sight.” Maurice Merelau-Ponty,{" "}
         <em>Phenomenology of Perception</em>, trans. Colin Smith (London:
         Routledge & Kegan Paul, 2002), 165.
       </cite>

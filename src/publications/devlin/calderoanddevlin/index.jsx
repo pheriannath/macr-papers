@@ -55,11 +55,11 @@ const CalderoAndDevlin = () => {
       <p>
         <span className="speaker">ARC:</span> Yeah. When I was at Nakashima,
         I've probably told you the story… Nakashima woodworkers are really
-        focused
+        focused.
         <sup>
           <a href="#annotation-1">1</a>
-        </sup>
-        . Their whole philosophy starts with the material: how do we look at it,
+        </sup>{" "}
+        Their whole philosophy starts with the material: how do we look at it,
         and study it to create pieces that will celebrate the material. So, not
         starting with the idea for a piece of furniture first, but starting with
         material and designing around the material in ways that will last
@@ -113,11 +113,11 @@ const CalderoAndDevlin = () => {
         There are people trying to make chairs for other reasons, but even then
         it’s often through the study of “ergonomics,” like what does that even
         mean? By CDC standards it's the study of trying to mitigate issues in
-        muscles or the body, but within the context of the work environment
+        muscles or the body, but within the context of the work environment.
         <sup>
           <a href="#annotation-2">2</a>
-        </sup>
-        . So it's this very capitalistic approach and viewpoint.{" "}
+        </sup>{" "}
+        So it's this very capitalistic approach and viewpoint.{" "}
       </p>
       <p>
         For me Tak’s chair was the first time that I really encountered an

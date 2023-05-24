@@ -275,7 +275,7 @@ const Adamson = () => {
         definition? Is a rock a chair if you sit on it? If not, why not? Who
         arrives at a definition in the first place: do numerous examples
         accumulate into the meaning of a word, like arrivals at a party? Or does
-        the concept precede the exemplars, imposing itself on them and giving
+        the concept precede the exemplars, imposing itself on them and giving{" "}
         <em>them</em> meaning?
       </p>
 
