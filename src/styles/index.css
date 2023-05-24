@@ -37,5 +37,6 @@ a.active {
 @import "article.css";
 @import "layout.css";
 @import "article.css";
+@import "bio.css";
 @import "menu.css";
 @import "publication.css";

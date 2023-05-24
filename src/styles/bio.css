@@ -1,0 +1,22 @@
+.bio-grid {
+  display: grid;
+  padding: 1rem 2rem;
+  grid-template-columns: 1fr 1fr;
+  gap: 6rem 2rem;
+}
+
+.bio {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.bio p {
+  margin: 0;
+  line-height: 1.4;
+}
+
+.bio img {
+  display: block;
+  height: 200px;
+}

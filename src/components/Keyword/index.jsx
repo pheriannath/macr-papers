@@ -6,14 +6,12 @@ const Keyword = () => {
   const { keyId } = useParams();
   const keyword = KEYWORD_MAP.find((k) => k.id === keyId);
 
-  console.log(keyword);
-
   return (
     <div>
       <h2>{keyword.name}</h2>
       <ul>
-        {keyword.articles.map((a) => (
-          <li>
+        {keyword.articles.map((a, i) => (
+          <li key={i}>
             <NavLink to={`/${a.pubId}/${a.id}`}>
               {a.author}: {a.title}
             </NavLink>
