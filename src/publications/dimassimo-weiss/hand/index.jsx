@@ -216,6 +216,7 @@ const Hand = () => {
           <a
             href="https://americanhistory.si.edu/collections/search/object/nmah_596365"
             target="_blank"
+            rel="noreferrer"
           >
             https://americanhistory.si.edu/collections/search/object/nmah_596365
           </a>
@@ -431,6 +432,7 @@ const Hand = () => {
           <a
             href="http://timesmachine.nytimes.com/timesmachine/1879/01/26/80744263.html?pageNumber=2"
             target="_blank"
+            rel="noreferrer"
           >
             http://timesmachine.nytimes.com/timesmachine/1879/01/26/80744263.html?pageNumber=2
           </a>
@@ -483,6 +485,7 @@ const Hand = () => {
           <a
             href="https://www.digitalcommonwealth.org/search/commonwealth:dv144240v"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.digitalcommonwealth.org/search/commonwealth:dv144240v
           </a>
@@ -496,6 +499,7 @@ const Hand = () => {
           <a
             href="https://www.nytimes.com/1878/12/29/archives/seeking-equality-abroad-why-miss-edmonia-lewis-the-colored-sculptor.html"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.nytimes.com/1878/12/29/archives/seeking-equality-abroad-why-miss-edmonia-lewis-the-colored-sculptor.html
           </a>
@@ -522,6 +526,7 @@ const Hand = () => {
           <a
             href="https://eiteljorg.org/grand-and-beautiful-native-basketry-exhibit-reflects-perelmans-generosity-2/"
             target="_blank"
+            rel="noreferrer"
           >
             https://eiteljorg.org/grand-and-beautiful-native-basketry-exhibit-reflects-perelmans-generosity-2/
           </a>

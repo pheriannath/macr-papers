@@ -31,6 +31,7 @@ const Grave = () => {
           <a
             href="https://medium.com/community-archives/graveyards-of-exclusion-archives-prisons-and-the-bounds-of-belonging-c40c85ff1663"
             target="_blank"
+            rel="noreferrer"
           >
             https://medium.com/community-archives/graveyards-of-exclusion-archives-prisons-and-the-bounds-of-belonging-c40c85ff1663.
           </a>

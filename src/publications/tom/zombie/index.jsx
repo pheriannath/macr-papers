@@ -35,6 +35,7 @@ const Zombie = () => {
           <a
             href="https://www.vice.com/en/article/vbgnpj/actually-zombies-are-good"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.vice.com/en/article/vbgnpj/actually-zombies-are-good
           </a>

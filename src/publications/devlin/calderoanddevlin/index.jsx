@@ -156,7 +156,11 @@ const CalderoAndDevlin = () => {
           is at work iterating on this design to make the rig usable in their
           project of making of chairs for a wider range of bodies. Photograph by
           Alexis Caldero,{" "}
-          <a href="https://www.alexiscaldero.com/" target="_blank">
+          <a
+            href="https://www.alexiscaldero.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             AlexisCaldero.com
           </a>
           .
@@ -331,7 +335,11 @@ const CalderoAndDevlin = () => {
         <figcaption>
           Left: Carving a seat pan. Right: Furniture drawings. By Alexis Rosa
           Caldero. Images from{" "}
-          <a href="https://www.alexiscaldero.com/" target="_blank">
+          <a
+            href="https://www.alexiscaldero.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             AlexisCaldero.com
           </a>
           .
@@ -445,7 +453,11 @@ const CalderoAndDevlin = () => {
         which produces furniture and peace shrines, has been lead by Mira
         Nakashima, daughter of founder, legendary woodworker, George Nakashima,
         since 1990.{" "}
-        <a href="http://nakashimawoodworkers.com" target="_blank">
+        <a
+          href="http://nakashimawoodworkers.com"
+          target="_blank"
+          rel="noreferrer"
+        >
           http://nakashimawoodworkers.com
         </a>
       </cite>
@@ -458,6 +470,7 @@ const CalderoAndDevlin = () => {
         <a
           href="https://www.cdc.gov/niosh/topics/ergonomics/default.html"
           target="_blank"
+          rel="noreferrer"
         >
           https://www.cdc.gov/niosh/topics/ergonomics/default.html
         </a>

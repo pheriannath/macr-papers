@@ -126,7 +126,11 @@ const LeeAndHand = () => {
       </p>
       <p>
         <em>Clockwork</em> uses{" "}
-        <a href="https://en.wikipedia.org/wiki/Murrine" target="_blank">
+        <a
+          href="https://en.wikipedia.org/wiki/Murrine"
+          target="_blank"
+          rel="noreferrer"
+        >
           murrini
         </a>{" "}
         to encode a sentimental poem about Lee’s mother and the loss of her
@@ -675,6 +679,7 @@ const LeeAndHand = () => {
           <a
             href="https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/"
             target="_blank"
+            rel="noreferrer"
           >
             https://pink-noise.org/portfolio/grandmother-watched-wheel-fortune-every-day/
           </a>
@@ -694,7 +699,11 @@ const LeeAndHand = () => {
         <cite>
           <sup id="annotation-en6">EN6</sup> Related Tactics, Instagram post,
           March 4, 2022,{" "}
-          <a href="https://www.instagram.com/p/CarG611ONSs/" target="_blank">
+          <a
+            href="https://www.instagram.com/p/CarG611ONSs/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.instagram.com/p/CarG611ONSs/
           </a>
           .
@@ -712,7 +721,11 @@ const LeeAndHand = () => {
         <cite>
           <sup id="annotation-en10">EN10</sup> Helen Lee, <em>Infinitive</em>.
           Pink Noise, accessed April 6, 2022,{" "}
-          <a href="https://pink-noise.org/portfolio/infinitive" target="_blank">
+          <a
+            href="https://pink-noise.org/portfolio/infinitive"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://pink-noise.org/portfolio/infinitive
           </a>
           .

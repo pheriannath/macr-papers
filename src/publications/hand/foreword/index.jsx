@@ -16,7 +16,11 @@ const Foreword = () => {
         study of texts such as Linda Tuhiwai Smith’s{" "}
         <em>Decolonizing Methodologies</em> to the imperative to center Black
         craft through our interactions with the{" "}
-        <a href="https://blackcraftspeople.org/" target="_blank">
+        <a
+          href="https://blackcraftspeople.org/"
+          target="_blank"
+          rel="noreferrer"
+        >
           Black Craftspeople Digital Archive
         </a>
         , MACR scholars are attuned to the necessity of engaging with the

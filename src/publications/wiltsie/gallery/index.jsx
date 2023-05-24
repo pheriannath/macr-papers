@@ -49,6 +49,7 @@ const Gallery = () => {
             <a
               href="https://www.facebook.com/groups/310882667610"
               target="_blank"
+              rel="noreferrer"
             >
               https://www.facebook.com/groups/310882667610
             </a>
@@ -58,13 +59,18 @@ const Gallery = () => {
         <li>
           <em>
             Ayumi Horie’s “Pots in Action” Instagram project (
-            <a href="https://www.instagram.com/potsinaction/" target="_blank">
+            <a
+              href="https://www.instagram.com/potsinaction/"
+              target="_blank"
+              rel="noreferrer"
+            >
               @potsinaction
             </a>
             ), which had a week of “Pots on Pots” (see:{" "}
             <a
               href="https://www.instagram.com/explore/tags/piapotsonpots/"
               target="_blank"
+              rel="noreferrer"
             >
               #piapotsonpots
             </a>
@@ -74,7 +80,11 @@ const Gallery = () => {
         <li>
           <em>
             Kristen Kieffer’s “Non-Clay Pots” Instagram project (
-            <a href="https://www.instagram.com/nonclaypots/" target="_blank">
+            <a
+              href="https://www.instagram.com/nonclaypots/"
+              target="_blank"
+              rel="noreferrer"
+            >
               @nonclaypots
             </a>
             )
@@ -104,6 +114,7 @@ const Gallery = () => {
               <a
                 href="http://hdl.handle.net/10934/RM0001.COLLECT.233827"
                 target="_blank"
+                rel="noreferrer"
               >
                 http://hdl.handle.net/10934/RM0001.COLLECT.233827
               </a>
@@ -142,6 +153,7 @@ const Gallery = () => {
               <a
                 href="https://emuseum.gardinermuseum.com/objects/9377/"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://emuseum.gardinermuseum.com/objects/9377/
               </a>
@@ -183,6 +195,7 @@ const Gallery = () => {
               <a
                 href="https://www.metmuseum.org/art/collection/search/50342"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://www.metmuseum.org/art/collection/search/50342
               </a>
@@ -219,6 +232,7 @@ const Gallery = () => {
               <a
                 href="https://www.metmuseum.org/art/collection/search/48605"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://www.metmuseum.org/art/collection/search/48605
               </a>
@@ -285,6 +299,7 @@ const Gallery = () => {
               <a
                 href="http://hdl.handle.net/10934/RM0001.COLLECT.3498"
                 target="_blank"
+                rel="noreferrer"
               >
                 http://hdl.handle.net/10934/RM0001.COLLECT.3498
               </a>
@@ -318,6 +333,7 @@ const Gallery = () => {
               <a
                 href="https://www.metmuseum.org/art/collection/search/46093"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://www.metmuseum.org/art/collection/search/46093
               </a>
@@ -351,6 +367,7 @@ const Gallery = () => {
               <a
                 href="https://art.thewalters.org/detail/11790/iznik-rhodian-fritware-plate-with-depiction-of-a-ewer/"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://art.thewalters.org/detail/11790/iznik-rhodian-fritware-plate-with-depiction-of-a-ewer/
               </a>
@@ -443,6 +460,7 @@ const Gallery = () => {
               <a
                 href="https://www.metmuseum.org/art/collection/search/247244"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://www.metmuseum.org/art/collection/search/247244
               </a>
@@ -537,6 +555,7 @@ const Gallery = () => {
               <a
                 href="https://www.metmuseum.org/art/collection/search/255631"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://www.metmuseum.org/art/collection/search/255631
               </a>
@@ -601,6 +620,7 @@ const Gallery = () => {
               <a
                 href="https://www.metmuseum.org/art/collection/search/308514"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://www.metmuseum.org/art/collection/search/308514
               </a>
@@ -665,6 +685,7 @@ const Gallery = () => {
               <a
                 href="https://collections.lacma.org/node/2259194"
                 target="_blank"
+                rel="noreferrer"
               >
                 https://collections.lacma.org/node/2259194
               </a>
@@ -685,27 +706,47 @@ const Gallery = () => {
 
       <ul className="thanks">
         <li>
-          <a href="https://www.felicityaylieff.com/" target="_blank">
+          <a
+            href="https://www.felicityaylieff.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.felicityaylieff.com/
           </a>
         </li>
         <li>
-          <a href="https://www.gabrielleschaffnerceramics.com/" target="_blank">
+          <a
+            href="https://www.gabrielleschaffnerceramics.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.gabrielleschaffnerceramics.com/
           </a>
         </li>
         <li>
-          <a href="https://www.juliawalther.com/" target="_blank">
+          <a
+            href="https://www.juliawalther.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.juliawalther.com/
           </a>
         </li>
         <li>
-          <a href="http://www.brookemillecchia.com/" target="_blank">
+          <a
+            href="http://www.brookemillecchia.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             http://www.brookemillecchia.com/
           </a>
         </li>
         <li>
-          <a href="https://www.kateschroederceramics.com/" target="_blank">
+          <a
+            href="https://www.kateschroederceramics.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.kateschroederceramics.com/
           </a>
         </li>

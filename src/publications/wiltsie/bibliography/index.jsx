@@ -97,6 +97,7 @@ const Bibliography = () => {
             <a
               href="https://open.bu.edu/ds2/stream/?#/documents/382235/page/456"
               target="_blank"
+              rel="noreferrer"
             >
               https://open.bu.edu/ds2/stream/?#/documents/382235/page/456
             </a>

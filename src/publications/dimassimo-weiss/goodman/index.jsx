@@ -141,7 +141,11 @@ const Goodman = () => {
           end-of-year publication{" "}
           <em>To: Craft - MA in Critical Craft Studies, Vol. 2, 2019–2021</em>{" "}
           (Swannanoa: Warren Wilson College, 2021). Photograph.{" "}
-          <a href="https://www.loc.gov/item/mesnp010242/" target="_blank">
+          <a
+            href="https://www.loc.gov/item/mesnp010242/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.loc.gov/item/mesnp010242/
           </a>
           . This photo was taken in 1936 as part of the Federal Writers’
@@ -192,7 +196,11 @@ const Goodman = () => {
         <li>
           Federal Writers’ Project: Slave Narrative Project, Vol. 11, North
           Carolina, Part 1. Washington, 1936. 169.{" "}
-          <a href="https://www.loc.gov/item/mesn111/" target="_blank">
+          <a
+            href="https://www.loc.gov/item/mesn111/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.loc.gov/item/mesn111/
           </a>
           .
@@ -214,6 +222,7 @@ const Goodman = () => {
         <a
           href="https://repository.warren-wilson.edu/handle/20.500.12667/53"
           target="_blank"
+          rel="noreferrer"
         >
           https://repository.warren-wilson.edu/handle/20.500.12667/53
         </a>

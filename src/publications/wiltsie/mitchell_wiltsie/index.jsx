@@ -569,6 +569,7 @@ const MitchellWiltsie = () => {
           <a
             href="https://commons.wikimedia.org/wiki/File:Cup_or_faces_paradox.svg"
             target="_blank"
+            rel="noreferrer"
           >
             https://commons.wikimedia.org/wiki/File:Cup_or_faces_paradox.svg
           </a>{" "}
@@ -576,6 +577,7 @@ const MitchellWiltsie = () => {
           <a
             href="https://creativecommons.org/licenses/by-sa/3.0/legalcode"
             target="_blank"
+            rel="noreferrer"
           >
             Creative Commons Attribution-Share Alike 3.0 Unported license
           </a>
@@ -642,6 +644,7 @@ const MitchellWiltsie = () => {
           <a
             href="https://www.metmuseum.org/art/collection/search/397855"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.metmuseum.org/art/collection/search/397855
           </a>
@@ -727,6 +730,7 @@ const MitchellWiltsie = () => {
         <a
           href="https://open.bu.edu/ds2/stream/?#/documents/382235/page/456"
           target="_blank"
+          rel="noreferrer"
         >
           https://open.bu.edu/ds2/stream/?#/documents/382235/page/456
         </a>
@@ -760,6 +764,7 @@ const MitchellWiltsie = () => {
         <a
           href="https://saulsteinbergfoundation.org/search-artwork/?subject=art-making"
           target="_blank"
+          rel="noreferrer"
         >
           https://saulsteinbergfoundation.org/search-artwork/?subject=art-making
         </a>
@@ -817,6 +822,7 @@ const MitchellWiltsie = () => {
         <a
           href="https://www.nga.gov/collection/art-object-page.54237.html"
           target="_blank"
+          rel="noreferrer"
         >
           https://www.nga.gov/collection/art-object-page.54237.html
         </a>
@@ -830,7 +836,11 @@ const MitchellWiltsie = () => {
           [Ceci N’est Pas Une Pipe])
         </em>
         , painting, 1929, Los Angeles County Museum of Art,{" "}
-        <a href="https://collections.lacma.org/node/239578" target="_blank">
+        <a
+          href="https://collections.lacma.org/node/239578"
+          target="_blank"
+          rel="noreferrer"
+        >
           https://collections.lacma.org/node/239578
         </a>
         .{" "}
@@ -849,7 +859,11 @@ const MitchellWiltsie = () => {
         <em>Epoch 2020: Relevance of Gandhi in Present Tense</em>, presented by
         Indira Gandhi National Centre for the Arts, New Delhi. See Shelly Jyoti,{" "}
         <em>Prof W J T Mitchell</em>, October 29, 2021.{" "}
-        <a href="https://www.youtube.com/watch?v=QfxjTD_RC1w" target="_blank">
+        <a
+          href="https://www.youtube.com/watch?v=QfxjTD_RC1w"
+          target="_blank"
+          rel="noreferrer"
+        >
           https://www.youtube.com/watch?v=QfxjTD_RC1w
         </a>
         .

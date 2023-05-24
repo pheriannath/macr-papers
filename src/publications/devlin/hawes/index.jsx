@@ -19,6 +19,7 @@ const Hawes = () => {
           <a
             href="https://repository.warren-wilson.edu/handle/20.500.12667/66"
             target="_blank"
+            rel="noreferrer"
           >
             here
           </a>

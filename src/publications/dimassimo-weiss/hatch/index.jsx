@@ -115,7 +115,7 @@ const Hatch = () => {
       <cite>
         <sup id="annotation-1">1.</sup> Mike Hatch, “Crafted Roots: The Video,”
         YouTube video, October 10, 2020, 39:46.{" "}
-        <a href="https://youtu.be/hvkcpLd8HkY" target="_blank">
+        <a href="https://youtu.be/hvkcpLd8HkY" target="_blank" rel="noreferrer">
           https://youtu.be/hvkcpLd8HkY
         </a>
         .
@@ -129,7 +129,7 @@ const Hatch = () => {
       <cite>
         <sup id="annotation-3">3.</sup> Mike Hatch, “Redacted,” YouTube video,
         April 25, 2022, 19:56.{" "}
-        <a href="https://youtu.be/mRUjJcsG_Q4" target="_blank">
+        <a href="https://youtu.be/mRUjJcsG_Q4" target="_blank" rel="noreferrer">
           https://youtu.be/mRUjJcsG_Q4
         </a>
         .

@@ -14,6 +14,7 @@ const Adamson = () => {
           <a
             href="https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world"
             target="_blank"
+            rel="noreferrer"
           >
             https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world
           </a>
@@ -24,11 +25,12 @@ const Adamson = () => {
         <a
           href="https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world"
           target="_blank"
+          rel="noreferrer"
         >
           Material intelligence
         </a>{" "}
         on Aeon (
-        <a href="https://aeon.co/" target="_blank">
+        <a href="https://aeon.co/" target="_blank" rel="noreferrer">
           Aeon.co
         </a>
         ). We reproduce it here with their kind permission, without any editing
@@ -143,6 +145,7 @@ const Adamson = () => {
         <a
           href="http://journals.sagepub.com/doi/abs/10.2190/DUGG-P24E-52WK-6CDG"
           target="_blank"
+          rel="noreferrer"
         >
           idea
         </a>{" "}

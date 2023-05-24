@@ -15,6 +15,7 @@ const Boden = () => {
           <a
             href="https://doi.org/10.1093/bjaesthetics/40.3.289"
             target="_blank"
+            rel="noreferrer"
           >
             https://doi.org/10.1093/bjaesthetics/40.3.289
           </a>

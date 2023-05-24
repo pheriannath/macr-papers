@@ -18,6 +18,7 @@ const DiMassimo = () => {
         <a
           href="https://padlet.com/jdimassimof21/mapping-commeraw-s-jar-a3966gfdbmv1wo70"
           target="_blank"
+          rel="noreferrer"
         >
           https://padlet.com/jdimassimof21/mapping-commeraw-s-jar-a3966gfdbmv1wo70
         </a>
@@ -36,6 +37,7 @@ const DiMassimo = () => {
           <a
             href="https://padlet.com/jdimassimof21/mapping-commeraw-s-jar-a3966gfdbmv1wo70"
             target="_blank"
+            rel="noreferrer"
           >
             https://padlet.com/jdimassimof21/mapping-commeraw-s-jar-a3966gfdbmv1wo70
           </a>
@@ -88,7 +90,11 @@ const DiMassimo = () => {
         <figcaption>
           Yellow shows perception that Commeraw was white; black, that he was
           Black. Map of New York City, 1797, New York Public Library,
-          <a href="https://tinyurl.com/e6dx396e" target="_blank">
+          <a
+            href="https://tinyurl.com/e6dx396e"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://tinyurl.com/e6dx396e
           </a>
         </figcaption>
@@ -122,7 +128,11 @@ const DiMassimo = () => {
         <figcaption>
           Thomas Commeraw, Jar, 1796–1819. Stoneware. Metropolitan Museum of
           Art, New York, NY, The Rogers Fund, 1918,
-          <a href="https://tinyurl.com/m7f9shnk" target="_blank">
+          <a
+            href="https://tinyurl.com/m7f9shnk"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://tinyurl.com/m7f9shnk
           </a>
           .
@@ -221,7 +231,11 @@ const DiMassimo = () => {
         <figcaption>
           A ship from the American Colonization Society’s Annual Report, 1857.
           Image: NY Public Library,{" "}
-          <a href="https://tinyurl.com/4r52f9k8" target="_blank">
+          <a
+            href="https://tinyurl.com/4r52f9k8"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://tinyurl.com/4r52f9k8
           </a>
         </figcaption>
@@ -574,7 +588,11 @@ const DiMassimo = () => {
         <figcaption>
           The entrance to the American Wing features a Wall Street bank facade.
           Photo: Gabriel Fernandes from São Paulo, Brazil, CC BY-SA 2.0,{" "}
-          <a href="https://creativecommons.org/" target="_blank">
+          <a
+            href="https://creativecommons.org/"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://creativecommons.org/
           </a>
         </figcaption>

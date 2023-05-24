@@ -11,6 +11,7 @@ const Renewal = () => {
           <a
             href="https://www.flickr.com/photos/bluntschli/10590068556/"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.flickr.com/photos/bluntschli/10590068556/
           </a>
@@ -18,6 +19,7 @@ const Renewal = () => {
           <a
             href="https://creativecommons.org/licenses/by-nc/2.0/"
             target="_blank"
+            rel="noreferrer"
           >
             https://creativecommons.org/licenses/by-nc/2.0/
           </a>
@@ -68,6 +70,7 @@ const Renewal = () => {
           <a
             href="https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies"
             target="_blank"
+            rel="noreferrer"
           >
             https://theprepared.org/features-feed/ise-jingu-and-the-pyramid-of-enabling-technologies
           </a>

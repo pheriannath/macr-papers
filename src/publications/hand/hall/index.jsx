@@ -23,6 +23,7 @@ const Hall = () => {
         <a
           href="https://media.oregonstate.edu/media/t/0_wkv89qm9"
           target="_blank"
+          rel="noreferrer"
         >
           Gloria Anzaldua’s 2004 lecture at Oregon State University
         </a>

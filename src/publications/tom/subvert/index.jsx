@@ -50,6 +50,7 @@ const Subvert = () => {
           <a
             href="https://dictionary.cambridge.org/us/dictionary/english/subvert"
             target="_blank"
+            rel="noreferrer"
           >
             https://dictionary.cambridge.org/us/dictionary/english/subvert
           </a>

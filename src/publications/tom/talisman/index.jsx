@@ -33,7 +33,11 @@ const Talisman = () => {
       </p>
 
       <p>
-        <a href="http://www.kaseysmith.net/memory-seed-bombs" target="_blank">
+        <a
+          href="http://www.kaseysmith.net/memory-seed-bombs"
+          target="_blank"
+          rel="noreferrer"
+        >
           http://www.kaseysmith.net/memory-seed-bombs
         </a>
       </p>

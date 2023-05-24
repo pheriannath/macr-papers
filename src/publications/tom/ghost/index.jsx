@@ -53,7 +53,11 @@ const Ghost = () => {
         <li>
           Fisher, Mark. “What Is Hauntology?,” Film Quarterly 66, no. 1
           (September 1, 2012): 16–24.{" "}
-          <a href="https://doi.org/10.1525/fq.2012.66.1.16" target="_blank">
+          <a
+            href="https://doi.org/10.1525/fq.2012.66.1.16"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://doi.org/10.1525/fq.2012.66.1.16
           </a>
           .
@@ -64,6 +68,7 @@ const Ghost = () => {
           <a
             href="https://www.nybooks.com/online/2021/07/31/william-morris-romantic-revolutionary/"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.nybooks.com/online/2021/07/31/william-morris-romantic-revolutionary/
           </a>
@@ -75,6 +80,7 @@ const Ghost = () => {
           <a
             href="https://post45.org/2021/05/paradise-on-earthly-dilemmas/"
             target="_blank"
+            rel="noreferrer"
           >
             https://post45.org/2021/05/paradise-on-earthly-dilemmas/
           </a>

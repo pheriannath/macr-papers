@@ -24,6 +24,7 @@ const Vowel = () => {
           <a
             href="https://lithub.com/writing-toward-a-definition-of-indigenous-futurism/"
             target="_blank"
+            rel="noreferrer"
           >
             https://lithub.com/writing-toward-a-definition-of-indigenous-futurism/
           </a>

@@ -53,6 +53,7 @@ const Joyce = () => {
           <a
             href="https://chrysler.org/joyce-scott-hard-truth-in-beauty/"
             target="_blank"
+            rel="noreferrer"
           >
             https://chrysler.org/joyce-scott-hard-truth-in-beauty/
           </a>

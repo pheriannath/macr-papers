@@ -70,6 +70,7 @@ const Offering = () => {
           <a
             href="https://www.chinadaily.com.cn/china/2010-10/21/content_11437013.htm"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.chinadaily.com.cn/china/2010-10/21/content_11437013.htm
           </a>
@@ -89,6 +90,7 @@ const Offering = () => {
           <a
             href="https://commons.wikimedia.org/w/index.php?curid=47751096"
             target="_blank"
+            rel="noreferrer"
           >
             https://commons.wikimedia.org/w/index.php?curid=47751096
           </a>
@@ -107,6 +109,7 @@ const Offering = () => {
           <a
             href="https://commons.wikimedia.org/w/index.php?curid=4581000"
             target="_blank"
+            rel="noreferrer"
           >
             https://commons.wikimedia.org/w/index.php?curid=4581000
           </a>

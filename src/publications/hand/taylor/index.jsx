@@ -44,6 +44,7 @@ const Taylor = () => {
           <a
             href="https://www.newyorker.com/news/our-columnists/until-black-women-are-free-none-of-us-will-be-free"
             target="_blank"
+            rel="noreferrer"
           >
             https://www.newyorker.com/news/our-columnists/until-black-women-are-free-none-of-us-will-be-free
           </a>
@@ -68,7 +69,11 @@ const Taylor = () => {
       <cite>
         <sup id="annotation-1">1.</sup> The Combahee River Collective Statement,
         United States, 2015, web archive,{" "}
-        <a href="https://www.loc.gov/item/lcwaN0028151/" target="_blank">
+        <a
+          href="https://www.loc.gov/item/lcwaN0028151/"
+          target="_blank"
+          rel="noreferrer"
+        >
           https://www.loc.gov/item/lcwaN0028151/
         </a>
         .

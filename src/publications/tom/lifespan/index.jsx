@@ -60,7 +60,11 @@ const Lifespan = () => {
         <li>
           Future Library. “Future Library, 2014¬2114.” Accessed February 16,
           2023.{" "}
-          <a href="https://www.futurelibrary.no" target="_blank">
+          <a
+            href="https://www.futurelibrary.no"
+            target="_blank"
+            rel="noreferrer"
+          >
             https://www.futurelibrary.no
           </a>
           .
