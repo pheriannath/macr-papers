@@ -15,8 +15,11 @@ const Hawes = () => {
       <p>
         <em>
           <strong>Editor’s Note:</strong> Kate Hawes’s practicum paper, from
-          which this excerpt is culled, is accessible here. We reproduce it here
-          with their permission.
+          which this excerpt is culled, is accessible{" "}
+          <a href="https://repository.warren-wilson.edu/handle/20.500.12667/66">
+            here
+          </a>
+          . We reproduce it here with their permission.
         </em>
       </p>
 
