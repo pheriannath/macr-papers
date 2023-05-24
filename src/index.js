@@ -11,6 +11,7 @@ import Error from "./components/Error";
 import Background from "./assets/background.jpeg";
 import "./styles/index.css";
 import Home from "./components/Home";
+import Keyword from "./components/Keyword";
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
       {
         path: "/keywords",
         element: <Keywords />,
+      },
+      {
+        path: "/keywords/:keyId",
+        element: <Keyword />,
       },
       {
         path: "/bios",

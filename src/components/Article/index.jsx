@@ -1,7 +1,8 @@
 import React from "react";
-import { useParams } from "react-router";
+import { useParams, NavLink } from "react-router-dom";
 import Download from "../Download";
-import { PUBLICATIONS } from "../../publications";
+import { PUBLICATIONS, renderSafeTag } from "../../publications";
+import { KEYWORD_MAP } from "../../data/keywords";
 
 const ArticleHeader = ({
   author,
@@ -45,9 +46,15 @@ const ArticleCitation = ({ citation, url }) => {
 const ArticleTags = ({ tags }) => {
   return (
     <ul className="tags">
-      {tags.map((t, i) => (
-        <li key={i}>{t}</li>
-      ))}
+      {tags.map((t, i) => {
+        const keyword = KEYWORD_MAP.find((k) => k.id === renderSafeTag(t));
+
+        return (
+          <li key={i}>
+            <NavLink to={`/keywords/${keyword.id}`}>{t}</NavLink>
+          </li>
+        );
+      })}
     </ul>
   );
 };

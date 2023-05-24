@@ -6,7 +6,6 @@ import Tom from "./tom";
 import Wiltsie from "./wiltsie";
 import PerronFeller from "./perron-feller";
 import LignelWiggers from "./lignel-wiggers";
-import { render } from "react-dom";
 
 export const PUBLICATIONS = [
   Devlin,
@@ -50,28 +49,36 @@ export const renderSafeTag = (tag) => {
 const getArticlesForTags = () => {
   const tags = getAllTags();
 
-  const tagMap = Object.assign(
-    ...tags.map((tag) => {
-      return { [renderSafeTag(tag)]: [] };
-    })
-  );
+  const kwMap = tags.map((t) => {
+    return {
+      id: renderSafeTag(t),
+      name: t,
+      articles: [],
+    };
+  });
 
   ARTICLES.map((article) => {
     const { pubId, id, order, author, authorShort, title } = article;
 
-    article.tags.forEach((tag) =>
-      tagMap[renderSafeTag(tag)].push({
+    article.tags.forEach((tag) => {
+      const kw = kwMap.find((k) => k.id === renderSafeTag(tag));
+
+      kw.articles.push({
         pubId,
         id,
         order,
         author,
         authorShort,
         title,
-      })
-    );
+      });
+    });
   });
 
-  return tagMap;
+  return kwMap;
 };
 
 export const ARTICLE_MAP = getArticlesForTags();
+
+// Uncomment the below if we need to regenerate the keyword map.
+// const data = JSON.stringify(ARTICLE_MAP);
+// console.log(data);
