@@ -78,7 +78,11 @@ const Offering = () => {
       </ul>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_20_offering.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_20_offering.jpg"}
+          alt="Paper roast pig and poultry, 2016. Photo: Kubla khanD - Own work, CC
+          BY-SA 4.0"
+        />
         <figcaption>
           Paper roast pig and poultry, 2016. Photo: Kubla khanD - Own work, CC
           BY-SA 4.0,{" "}
@@ -92,7 +96,11 @@ const Offering = () => {
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_20_offering2.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_20_offering2.jpg"}
+          alt="Paper mansion in a Hong Kong shop, 2008. Photo: VictoriaDFong - Own
+          work, CC BY-SA 3.0"
+        />
         <figcaption>
           Paper mansion in a Hong Kong shop, 2008. Photo: VictoriaDFong - Own
           work, CC BY-SA 3.0,{" "}

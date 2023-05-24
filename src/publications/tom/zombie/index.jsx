@@ -18,7 +18,10 @@ const Zombie = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_34_zombie.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_34_zombie.png"}
+          alt="Zombie residence in Berkeley, California. Photo: Rena Tom"
+        />
         <figcaption>
           Zombie residence in Berkeley, California. Photo: Rena Tom
         </figcaption>

@@ -7,7 +7,11 @@ const Educate = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_9_educate1.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_9_educate1.jpg"}
+          alt="Trying to figure out Marx through a David Harvey lecture, aka the
+          “lawn Marx” incident, 2022. Photo: Rena Tom"
+        />
         <figcaption>
           Trying to figure out Marx through a David Harvey lecture, aka the
           “lawn Marx” incident, 2022. Photo: Rena Tom
@@ -16,8 +20,15 @@ const Educate = () => {
 
       <figure>
         <div className="two-up">
-          <img src={process.env.PUBLIC_URL + "/img/tom/RT_9_educate2.jpg"} />
-          <img src={process.env.PUBLIC_URL + "/img/tom/RT_9_educate3.jpg"} />
+          <img
+            src={process.env.PUBLIC_URL + "/img/tom/RT_9_educate2.jpg"}
+            alt="Indoor class, which was freezing, 2022."
+          />
+          <img
+            src={process.env.PUBLIC_URL + "/img/tom/RT_9_educate3.jpg"}
+            alt="Outdoor class, which was too
+          sunny, 2022. Both were still better than Zoom."
+          />
         </div>
         <figcaption>
           Indoor class, which was freezing, 2022. Outdoor class, which was too

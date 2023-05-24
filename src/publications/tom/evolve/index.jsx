@@ -11,8 +11,16 @@ const Evolve = () => {
 
       <figure>
         <div className="two-up">
-          <img src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve1.jpg"} />
-          <img src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve2.jpg"} />
+          <img
+            src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve1.jpg"}
+            alt="My time-honored method: cut up paper and rearrange words all over the
+          rug, April 2022. Photos: Rena Tom"
+          />
+          <img
+            src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve2.jpg"}
+            alt="My time-honored method: cut up paper and rearrange words all over the
+          rug, April 2022. Photos: Rena Tom"
+          />
         </div>
         <figcaption>
           My time-honored method: cut up paper and rearrange words all over the
@@ -31,8 +39,16 @@ const Evolve = () => {
 
       <figure>
         <div className="two-up">
-          <img src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve3.jpg"} />
-          <img src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve4.jpg"} />
+          <img
+            src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve3.jpg"}
+            alt="Refining ideas on a new rug, this time with sticky notes, August 2022.
+          Photos: Rena Tom"
+          />
+          <img
+            src={process.env.PUBLIC_URL + "/img/tom/RT_11_evolve4.jpg"}
+            alt="Refining ideas on a new rug, this time with sticky notes, August 2022.
+          Photos: Rena Tom"
+          />
         </div>
         <figcaption>
           Refining ideas on a new rug, this time with sticky notes, August 2022.

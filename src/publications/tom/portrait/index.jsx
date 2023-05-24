@@ -2,7 +2,11 @@ const Portrait = () => {
   return (
     <div>
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_22_portrait1.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_22_portrait1.jpg"}
+          alt="Portrait of Beryl Perron-Feller on break during MACR July residency,
+          2022. Photo: Miriam Devlin"
+        />
         <figcaption>
           Portrait of Beryl Perron-Feller on break during MACR July residency,
           2022. Photo: Miriam Devlin
@@ -10,7 +14,11 @@ const Portrait = () => {
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_22_portrait2.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_22_portrait2.jpg"}
+          alt="Portrait of Miriam Devlin on break during MACR July residency, 2022.
+          Photo: Beryl Perron-Feller"
+        />
         <figcaption>
           Portrait of Miriam Devlin on break during MACR July residency, 2022.
           Photo: Beryl Perron-Feller

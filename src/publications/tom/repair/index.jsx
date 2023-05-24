@@ -22,7 +22,11 @@ const Repair = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_28_repair1.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_28_repair1.png"}
+          alt="Maple play stand repair, repaired by Miriam Devlin, 2020. Photo: Emily
+          Mancewicz."
+        />
         <figcaption>
           Maple play stand repair, repaired by Miriam Devlin, 2020. Photo: Emily
           Mancewicz.
@@ -30,7 +34,11 @@ const Repair = () => {
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_28_repair2.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_28_repair2.png"}
+          alt="Railing repair at Haystack Mountain School of Crafts, 2019, repairer
+          unknown. Photo: Miriam Devlin."
+        />
         <figcaption>
           Railing repair at Haystack Mountain School of Crafts, 2019, repairer
           unknown. Photo: Miriam Devlin.

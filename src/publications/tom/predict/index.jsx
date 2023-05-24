@@ -3,7 +3,11 @@ const Predict = () => {
     <div>
       <h2>Craft Tarot Reading with Andres Payan Estrada</h2>
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_23_andres1.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_23_andres1.png"}
+          alt="Still from Andres Payan Estrada’s craft tarot reading about the MACR
+          program’s past, present, and future, 2022."
+        />
         <figcaption>
           Still from Andres Payan Estrada’s craft tarot reading about the MACR
           program’s past, present, and future, 2022.
@@ -163,7 +167,12 @@ const Predict = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_23_andres2.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_23_andres2.jpg"}
+          alt="Still from Andres Payan Estrada’s craft tarot reading showing Eight of
+          Hammers, Raw Gemstone, Statement Necklace (upside down), and the
+          Residency, 2022"
+        />
         <figcaption>
           Still from Andres Payan Estrada’s craft tarot reading showing Eight of
           Hammers, Raw Gemstone, Statement Necklace (upside down), and the

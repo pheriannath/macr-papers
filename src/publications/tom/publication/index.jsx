@@ -65,7 +65,10 @@ const Publication = () => {
       <p>Thank you for reading this note, and good luck.</p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_24_convo.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_24_convo.jpg"}
+          alt="Drawing by Cosima Lignel, 2022. Photo: Rena Tom."
+        />
         <figcaption>
           Drawing by Cosima Lignel, 2022. Photo: Rena Tom.
         </figcaption>

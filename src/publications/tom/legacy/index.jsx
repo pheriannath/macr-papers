@@ -50,7 +50,11 @@ const Legacy = () => {
       </audio>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_14_legacy1.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_14_legacy1.jpg"}
+          alt="Logomark on a shard from Tepco Beach, Richmond, California, 2022.
+          Photo: Rena Tom"
+        />
         <figcaption>
           Logomark on a shard from Tepco Beach, Richmond, California, 2022.
           Photo: Rena Tom
@@ -58,7 +62,11 @@ const Legacy = () => {
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_14_legacy2.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_14_legacy2.jpg"}
+          alt="A mysterious pattern on a shard at Tepco Beach, Richmond, California,
+          2022. Photo: Rena Tom"
+        />
         <figcaption>
           A mysterious pattern on a shard at Tepco Beach, Richmond, California,
           2022. Photo: Rena Tom

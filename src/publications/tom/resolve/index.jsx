@@ -44,12 +44,18 @@ const Resolve = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_29_bldg1.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_29_bldg1.jpg"}
+          alt="Photo: Jill DiMassimo."
+        />
         <figcaption>Photo: Jill DiMassimo.</figcaption>
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_29_bldg2.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_29_bldg2.jpg"}
+          alt="Photo: Jill DiMassimo."
+        />
         <figcaption>Photo: Jill DiMassimo.</figcaption>
       </figure>
 

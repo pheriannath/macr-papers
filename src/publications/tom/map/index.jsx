@@ -27,7 +27,11 @@ const Map = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_18_map1.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_18_map1.png"}
+          alt="A screenshot of notes taken before and after Rena Tom’s walk around
+          the neighborhood, 2022."
+        />
         <figcaption>
           A screenshot of notes taken before and after Rena Tom’s walk around
           the neighborhood, 2022.
@@ -35,7 +39,11 @@ const Map = () => {
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_18_map2.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_18_map2.png"}
+          alt="A screenshot of notes taken before and after Rena Tom’s walk around
+          the neighborhood, 2022."
+        />
         <figcaption>
           A screenshot of notes taken before and after Rena Tom’s walk around
           the neighborhood, 2022.

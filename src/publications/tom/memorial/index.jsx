@@ -25,7 +25,10 @@ const Memorial = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_19_memorial.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_19_memorial.jpg"}
+          alt="Dad’s plant before repotting and a good soaking, 2022. Photo: Rena Tom"
+        />
         <figcaption>
           Dad’s plant before repotting and a good soaking, 2022. Photo: Rena Tom
         </figcaption>

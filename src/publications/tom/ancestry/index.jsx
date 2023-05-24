@@ -12,7 +12,10 @@ const Ancestry = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_4_ancestry.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_4_ancestry.png"}
+          alt="Rena Tom, Conceptual Self-Portrait, 2023. Photo: Rena Tom"
+        />
         <figcaption>
           Rena Tom, <em>Conceptual Self-Portrait</em>, 2023. Photo: Rena Tom
         </figcaption>

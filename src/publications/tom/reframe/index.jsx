@@ -44,7 +44,11 @@ const Reframe = () => {
       </ul>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_26_reframe1.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_26_reframe1.png"}
+          alt="Figure 1. Bouquet of artificially decaying paper flowers, 2022. Photo:
+          Tiffanie Turner"
+        />
         <figcaption>
           Figure 1. Bouquet of artificially decaying paper flowers, 2022. Photo:
           Tiffanie Turner
@@ -52,7 +56,11 @@ const Reframe = () => {
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_26_reframe2.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_26_reframe2.jpg"}
+          alt="Tiffanie Turner is dwarfed by a very large paper flower, 2014. Photo:
+          Sarah Deragon/Portraits to the People"
+        />
         <figcaption>
           Tiffanie Turner is dwarfed by a very large paper flower, 2014. Photo:
           Sarah Deragon/Portraits to the People

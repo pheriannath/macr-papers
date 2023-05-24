@@ -11,9 +11,13 @@ const Magic = () => {
         </sup>
       </p>
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_17_magic.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_17_magic.jpg"}
+          alt="The beginning of a little legerdemain by Shlomo Zippel. Photo: Rena
+          Tom"
+        />
         <figcaption>
-          The beginning of a little legerdemain by Shlomo Zippel. Photo: Rena
+          The beginning of a little legerdemain by Shlomo Zippel. Photo: Rena{" "}
           Tom
         </figcaption>
       </figure>

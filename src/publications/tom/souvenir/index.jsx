@@ -36,7 +36,11 @@ const Souvenir = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_30_souvenir.png"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_30_souvenir.png"}
+          alt="Namita opening her end-of-residency present, July 2022. Photo: Rena
+          Tom"
+        />
         <figcaption>
           Namita opening her end-of-residency present, July 2022. Photo: Rena
           Tom

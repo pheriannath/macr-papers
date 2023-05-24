@@ -39,7 +39,10 @@ const Talisman = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_33_bottlecap.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_33_bottlecap.jpg"}
+          alt="Sprouting Diet Coke bottle cap seed bomb, 2022. Photo: Kasey Smith."
+        />
         <figcaption>
           Sprouting Diet Coke bottle cap seed bomb, 2022. Photo: Kasey Smith.
         </figcaption>

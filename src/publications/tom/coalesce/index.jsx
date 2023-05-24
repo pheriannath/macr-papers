@@ -9,7 +9,11 @@ const Coalesce = () => {
       </p>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_7_coalesce1.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_7_coalesce1.jpg"}
+          alt="The gang at the end-of-July residency, 2022. Photo: Beryl
+          Perron-Feller"
+        />
         <figcaption>
           The gang at the end-of-July residency, 2022. Photo: Beryl
           Perron-Feller
@@ -17,7 +21,11 @@ const Coalesce = () => {
       </figure>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_7_coalesce2.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_7_coalesce2.jpg"}
+          alt="The MACR 2023 cohort group hug/huddle at the class of 2022 graduation
+          ceremony, 2022. Photo: Ben Lignel"
+        />
         <figcaption>
           The MACR 2023 cohort group hug/huddle at the class of 2022 graduation
           ceremony, 2022. Photo: Ben Lignel

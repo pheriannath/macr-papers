@@ -37,7 +37,11 @@ const Enchant = () => {
       </ul>
 
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_10_enchant.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_10_enchant.jpg"}
+          alt="Roadside memorial on Adeline Street for James “JT” Street, a long-time
+          City of Berkeley employee, 2022. Photo: Rena Tom"
+        />
         <figcaption>
           Roadside memorial on Adeline Street for James “JT” Street, a long-time
           City of Berkeley employee, 2022. Photo: Rena Tom

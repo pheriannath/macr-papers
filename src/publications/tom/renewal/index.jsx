@@ -2,7 +2,10 @@ const Renewal = () => {
   return (
     <div>
       <figure>
-        <img src={process.env.PUBLIC_URL + "/img/tom/RT_27_renewal.jpg"} />
+        <img
+          src={process.env.PUBLIC_URL + "/img/tom/RT_27_renewal.jpg"}
+          alt="“Ise, old and new.” Photo: Bernhard Scheid"
+        />
         <figcaption>
           “Ise, old and new.” Photo: Bernhard Scheid, retrieved from
           <a
