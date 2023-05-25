@@ -32,6 +32,7 @@ import Subvert from "./subvert";
 import Talisman from "./talisman";
 import Zombie from "./zombie";
 import Eulogy from "./eulogy";
+import Archive from "./archive";
 
 const publication = {
   pubId: "tom",
@@ -108,10 +109,24 @@ const publication = {
       title: "Archive",
       author: "Namita Gupta Wiggers",
       authorShort: "Gupta Wiggers",
-      tags: [],
-      citation: ``,
-      url: "",
-      component: "",
+      tags: [
+        "new writing (faculty)",
+        "essay",
+        "appalachia",
+        "black history",
+        "community",
+        "craft studies",
+        "craftscape",
+        "erasure",
+        "heritage",
+        "indigenous knowledge",
+        "memory",
+        "methodology",
+        "space making",
+      ],
+      citation: `Wiggers, Namita Gupta. “Archive,” Encyclopedia of Craft Studies (Abridged), edited by Rena Tom. The MACR Papers, Swannanoa, NC: MA in Critical Craft Studies, 2023. Copyright remains with the author. ISBN 978-1-7351592-8-7  `,
+      url: "https://www.theMACRPapers.com/tom/archive",
+      component: <Archive />,
     },
     {
       pubId: "tom",

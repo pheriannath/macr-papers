@@ -80,5 +80,5 @@ const getArticlesForTags = () => {
 export const ARTICLE_MAP = getArticlesForTags();
 
 // Uncomment the below if we need to regenerate the keyword map.
-// const data = JSON.stringify(ARTICLE_MAP);
-// console.log(data);
+const data = JSON.stringify(ARTICLE_MAP);
+console.log(data);

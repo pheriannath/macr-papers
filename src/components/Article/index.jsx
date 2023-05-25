@@ -49,6 +49,8 @@ const ArticleTags = ({ tags }) => {
       {tags.map((t, i) => {
         const keyword = KEYWORD_MAP.find((k) => k.id === renderSafeTag(t));
 
+        if (!keyword) return;
+
         return (
           <li key={i}>
             <NavLink to={`/keywords/${keyword.id}`}>{t}</NavLink>

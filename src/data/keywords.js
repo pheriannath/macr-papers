@@ -275,6 +275,14 @@ export const KEYWORD_MAP = [
         authorShort: "Devlin",
         title: "Exceptional, Typical, Chairs by Dick Poynor",
       },
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
+      },
     ],
   },
   {
@@ -559,6 +567,14 @@ export const KEYWORD_MAP = [
         authorShort: "Hall",
         title: "Minimal Selves",
       },
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
+      },
     ],
   },
   {
@@ -772,6 +788,14 @@ export const KEYWORD_MAP = [
         author: "Rena Tom",
         authorShort: "Tom",
         title: "Ancestry",
+      },
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
       },
       {
         pubId: "tom",
@@ -1253,6 +1277,14 @@ export const KEYWORD_MAP = [
       },
       {
         pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
+      },
+      {
+        pubId: "tom",
         id: "educate",
         order: 9,
         author: "Rena Tom",
@@ -1306,6 +1338,20 @@ export const KEYWORD_MAP = [
         author: "Tina Wiltsie",
         authorShort: "Wiltsie",
         title: "Gathering Raw Materials: A Bibliography of Suggested Readings",
+      },
+    ],
+  },
+  {
+    id: "craftscape",
+    name: "craftscape",
+    articles: [
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
       },
     ],
   },
@@ -1718,6 +1764,14 @@ export const KEYWORD_MAP = [
         authorShort: "Awake & Ryland",
         title: "Combatting Erasure",
       },
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
+      },
     ],
   },
   {
@@ -1828,6 +1882,14 @@ export const KEYWORD_MAP = [
         author: "Emily Johnson",
         authorShort: "Johnson",
         title: "Surgent Love ",
+      },
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
       },
       {
         pubId: "tom",
@@ -2214,6 +2276,14 @@ export const KEYWORD_MAP = [
       },
       {
         pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
+      },
+      {
+        pubId: "tom",
         id: "legacy",
         order: 14,
         author: "Rena Tom",
@@ -2368,6 +2438,14 @@ export const KEYWORD_MAP = [
         author: "Emily Johnson",
         authorShort: "Johnson",
         title: "Surgent Love ",
+      },
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
       },
     ],
   },
@@ -2926,6 +3004,14 @@ export const KEYWORD_MAP = [
       },
       {
         pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
+      },
+      {
+        pubId: "tom",
         id: "enchant",
         order: 10,
         author: "Karen Wilson Baptist",
@@ -3002,6 +3088,14 @@ export const KEYWORD_MAP = [
         author: "Rena Tom",
         authorShort: "Tom",
         title: "Ancestry",
+      },
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
       },
       {
         pubId: "wiltsie",
@@ -3203,6 +3297,14 @@ export const KEYWORD_MAP = [
     id: "newwritingfaculty",
     name: "new writing (faculty)",
     articles: [
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
+      },
       {
         pubId: "tom",
         id: "ghost",
@@ -4165,6 +4267,20 @@ export const KEYWORD_MAP = [
         author: "Margaret Boden",
         authorShort: "Boden",
         title: "Crafts, Perception, and the Possibilities of the Body",
+      },
+    ],
+  },
+  {
+    id: "spacemaking",
+    name: "space making",
+    articles: [
+      {
+        pubId: "tom",
+        id: "archive",
+        order: 5,
+        author: "Namita Gupta Wiggers",
+        authorShort: "Gupta Wiggers",
+        title: "Archive",
       },
     ],
   },
